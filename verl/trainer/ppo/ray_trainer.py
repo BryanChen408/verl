@@ -61,6 +61,7 @@ from verl.utils import tensordict_utils as tu
 from verl.utils.checkpoint.checkpoint_manager import find_latest_ckpt_path, should_save_ckpt_esi
 from verl.utils.config import omega_conf_to_dataclass
 from verl.utils.debug import marked_timer
+from verl.utils.debug.mem_probe import mem_snapshot
 from verl.utils.import_utils import deprecated, load_class_from_fqn
 from verl.utils.metric import reduce_metrics
 from verl.utils.py_functional import rename_dict
@@ -1334,7 +1335,9 @@ class RayPPOTrainer:
 
         # load checkpoint and update weights before doing anything
         self._load_checkpoint()
+        mem_snapshot("fit_after_load_checkpoint")
         self.checkpoint_manager.update_weights(self.global_steps)
+        mem_snapshot("fit_after_initial_weight_sync")
 
         current_epoch = self.global_steps // len(self.train_dataloader)
 
@@ -1371,6 +1374,7 @@ class RayPPOTrainer:
 
         for epoch in range(current_epoch, self.config.trainer.total_epochs):
             for batch_dict in self.train_dataloader:
+                mem_snapshot(f"step={self.global_steps} loop_start")
                 if hasattr(self.actor_rollout_wg, "async_calls_finalize_fn_exec"):
                     self.actor_rollout_wg.async_calls_finalize_fn_exec(blocking=False)
                 metrics = {}
@@ -1415,12 +1419,14 @@ class RayPPOTrainer:
                 with marked_timer("step", timing_raw):
                     # generate a batch
                     with marked_timer("gen", timing_raw, color="red"):
+                        mem_snapshot(f"step={self.global_steps} rollout_before")
                         if curr_step_profile:
                             self.llm_server_manager.start_profile()
                         combined_gen_output = self.async_rollout_manager.generate_sequences(combined_gen_batch)
                         self.checkpoint_manager.sleep_replicas()
                         if curr_step_profile:
                             self.llm_server_manager.stop_profile()
+                        mem_snapshot(f"step={self.global_steps} rollout_after_sleep")
 
                         timing_raw.update(combined_gen_output.meta_info["timing"])
                         combined_gen_output.meta_info.pop("timing", None)
@@ -1490,7 +1496,9 @@ class RayPPOTrainer:
                         )
                     else:  # Recompute old_log_probs
                         with marked_timer("old_log_prob", timing_raw, color="blue"):
+                            mem_snapshot(f"step={self.global_steps} old_logprob_before")
                             old_log_prob, old_log_prob_mfu = self._compute_old_log_prob(batch)
+                            mem_snapshot(f"step={self.global_steps} old_logprob_after")
                             entropys = old_log_prob.batch["entropys"]
                             response_masks = batch.batch["response_mask"]
                             actor_config = self.config.actor_rollout_ref.actor
@@ -1526,8 +1534,10 @@ class RayPPOTrainer:
                     if self.use_reference_policy:
                         # compute reference log_prob
                         with marked_timer(str(Role.RefPolicy), timing_raw, color="olive"):
+                            mem_snapshot(f"step={self.global_steps} ref_logprob_before")
                             ref_log_prob = self._compute_ref_log_prob(batch)
                             batch = batch.union(ref_log_prob)
+                            mem_snapshot(f"step={self.global_steps} ref_logprob_after")
 
                     # compute values
                     if self.use_critic:
@@ -1596,7 +1606,9 @@ class RayPPOTrainer:
                     else:
                         # update actor
                         with marked_timer("update_actor", timing_raw, color="red"):
+                            mem_snapshot(f"step={self.global_steps} update_actor_before")
                             actor_output = self._update_actor(batch)
+                            mem_snapshot(f"step={self.global_steps} update_actor_after")
 
                         # Check if the ESI (Elastic Server Instance)/training plan is close to expiration.
                         esi_close_to_expiration = should_save_ckpt_esi(
@@ -1622,7 +1634,9 @@ class RayPPOTrainer:
 
                         # update weights from trainer to rollout
                         with marked_timer("update_weights", timing_raw, color="red"):
+                            mem_snapshot(f"step={self.global_steps} weight_sync_before")
                             self.checkpoint_manager.update_weights(self.global_steps)
+                            mem_snapshot(f"step={self.global_steps} weight_sync_after")
 
                         actor_output_metrics = reduce_metrics(actor_output.meta_info["metrics"])
                         metrics.update(actor_output_metrics)

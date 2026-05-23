@@ -32,6 +32,7 @@ from verl.utils import tensordict_utils as tu
 from verl.utils.checkpoint.megatron_checkpoint_manager import MegatronCheckpointManager
 from verl.utils.dataset.dataset_utils import DatasetPadMode
 from verl.utils.debug import log_gpu_memory_usage
+from verl.utils.debug.mem_probe import mem_snapshot, opt_offload_check
 from verl.utils.device import get_device_id, get_device_name
 from verl.utils.megatron.pipeline_parallel import make_batch_generator
 from verl.utils.megatron.router_replay_patch import RouterReplay, RouterReplayAction, apply_router_replay_patch
@@ -390,8 +391,11 @@ class MegatronEngine(BaseEngine):
             log_gpu_memory_usage("After offload model during init (forward_only)", logger=logger)
             return
 
+        mem_snapshot("engine_init_before_optimizer", only_rank=None)
         self.optimizer = self._build_optimizer()
         self.lr_scheduler = self._build_lr_scheduler()
+        opt_offload_check(self, tag="after_build_optimizer")
+        mem_snapshot("engine_init_after_optimizer", only_rank=None)
 
         full_reshardable = self.engine_config.dist_ckpt_optim_fully_reshardable
         mem_eff = self.engine_config.distrib_optim_fully_reshardable_mem_efficient
@@ -439,6 +443,7 @@ class MegatronEngine(BaseEngine):
         )
 
         log_gpu_memory_usage("After offload model/optimizer/grad during init", logger=logger)
+        mem_snapshot("engine_init_after_offload_to_cpu", only_rank=None)
 
     def train_mode(self, **kwargs):
         """
