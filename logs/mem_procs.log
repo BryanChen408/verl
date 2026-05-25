@@ -1,0 +1,2898 @@
+01:29:21 vllm_worker: count=2 total=3MB
+---
+01:29:23 vllm_worker: count=2 total=3MB
+---
+01:29:25 vllm_worker: count=2 total=3MB
+---
+01:29:27 vllm_worker: count=2 total=3MB
+---
+01:29:29 vllm_worker: count=2 total=2MB
+---
+01:29:31 vllm_worker: count=2 total=3MB
+---
+01:29:33 vllm_worker: count=2 total=3MB
+---
+01:29:35 vllm_worker: count=2 total=3MB
+---
+01:29:37 vllm_worker: count=2 total=3MB
+---
+01:29:39 vllm_worker: count=2 total=3MB
+---
+01:29:41 vllm_worker: count=2 total=3MB
+---
+01:29:43 vllm_worker: count=2 total=3MB
+---
+01:29:45 vllm_worker: count=2 total=3MB
+---
+01:29:47 vllm_worker: count=2 total=3MB
+---
+01:29:49 vllm_worker: count=2 total=3MB
+---
+01:29:51 vllm_worker: count=2 total=3MB
+---
+01:29:53 vllm_worker: count=2 total=3MB
+---
+01:29:55 vllm_worker: count=2 total=3MB
+---
+01:29:57 vllm_worker: count=2 total=3MB
+---
+01:29:59 vllm_worker: count=2 total=3MB
+---
+01:30:01 vllm_worker: count=2 total=3MB
+---
+01:30:03 vllm_worker: count=2 total=3MB
+---
+01:30:05 vllm_worker: count=2 total=3MB
+---
+01:30:07 vllm_worker: count=2 total=3MB
+---
+01:30:09 vllm_worker: count=2 total=3MB
+---
+01:30:11 raylet: count=2 total=91MB
+01:30:11 vllm_worker: count=2 total=3MB
+---
+01:30:13 raylet: count=193 total=7212MB
+01:30:13 vllm_worker: count=2 total=3MB
+---
+01:30:16 raylet: count=189 total=11779MB
+01:30:16 vllm_worker: count=2 total=3MB
+---
+01:30:18 raylet: count=2 total=93MB
+01:30:18 vllm_worker: count=2 total=3MB
+---
+01:30:20 raylet: count=1 total=52MB
+01:30:20 vllm_worker: count=2 total=3MB
+---
+01:30:22 raylet: count=1 total=56MB
+01:30:22 vllm_worker: count=2 total=3MB
+---
+01:30:24 raylet: count=1 total=57MB
+01:30:24 vllm_worker: count=2 total=3MB
+---
+01:30:26 raylet: count=1 total=66MB
+01:30:26 vllm_worker: count=2 total=3MB
+---
+01:30:28 raylet: count=1 total=67MB
+01:30:28 vllm_worker: count=2 total=3MB
+---
+01:30:30 raylet: count=1 total=67MB
+01:30:30 vllm_worker: count=2 total=3MB
+---
+01:30:32 raylet: count=1 total=67MB
+01:30:32 vllm_worker: count=2 total=3MB
+---
+01:30:35 raylet: count=1 total=67MB
+01:30:35 vllm_worker: count=2 total=3MB
+---
+01:30:37 raylet: count=1 total=67MB
+01:30:37 vllm_worker: count=2 total=3MB
+---
+01:30:39 raylet: count=1 total=67MB
+01:30:39 vllm_worker: count=2 total=3MB
+---
+01:30:41 raylet: count=1 total=72MB
+01:30:41 task_runner: count=1 total=1305MB
+01:30:41 vllm_worker: count=2 total=3MB
+---
+01:30:43 raylet: count=1 total=72MB
+01:30:43 task_runner: count=1 total=1561MB
+01:30:43 vllm_worker: count=2 total=3MB
+---
+01:30:45 raylet: count=1 total=70MB
+01:30:45 task_runner: count=1 total=1674MB
+01:30:45 vllm_worker: count=2 total=3MB
+---
+01:30:47 raylet: count=1 total=69MB
+01:30:47 task_runner: count=1 total=1675MB
+01:30:47 vllm_worker: count=2 total=3MB
+---
+01:30:49 raylet: count=1 total=68MB
+01:30:49 task_runner: count=3 total=4143MB
+01:30:49 vllm_worker: count=2 total=3MB
+---
+01:30:51 raylet: count=1 total=68MB
+01:30:51 task_runner: count=3 total=4257MB
+01:30:51 vllm_worker: count=2 total=3MB
+---
+01:30:53 raylet: count=1 total=68MB
+01:30:53 task_runner: count=3 total=4349MB
+01:30:53 vllm_worker: count=2 total=3MB
+---
+01:30:55 raylet: count=1 total=72MB
+01:30:55 task_runner: count=3 total=4540MB
+01:30:55 vllm_worker: count=2 total=3MB
+---
+01:30:57 raylet: count=1 total=72MB
+01:30:57 task_runner: count=3 total=4770MB
+01:30:57 vllm_worker: count=2 total=3MB
+---
+01:30:59 raylet: count=1 total=71MB
+01:30:59 task_runner: count=3 total=4831MB
+01:30:59 vllm_worker: count=2 total=3MB
+---
+01:31:01 raylet: count=1 total=70MB
+01:31:01 task_runner: count=3 total=4934MB
+01:31:01 vllm_worker: count=2 total=3MB
+---
+01:31:03 raylet: count=1 total=69MB
+01:31:03 task_runner: count=3 total=5025MB
+01:31:03 vllm_worker: count=2 total=3MB
+---
+01:31:05 raylet: count=1 total=68MB
+01:31:05 task_runner: count=3 total=5111MB
+01:31:05 vllm_worker: count=2 total=3MB
+---
+01:31:07 raylet: count=1 total=68MB
+01:31:07 task_runner: count=3 total=5189MB
+01:31:07 vllm_worker: count=2 total=3MB
+---
+01:31:09 raylet: count=1 total=68MB
+01:31:09 task_runner: count=3 total=5256MB
+01:31:09 vllm_worker: count=2 total=3MB
+---
+01:31:11 raylet: count=1 total=73MB
+01:31:11 task_runner: count=3 total=5349MB
+01:31:11 vllm_worker: count=2 total=3MB
+---
+01:31:13 raylet: count=1 total=72MB
+01:31:13 task_runner: count=3 total=5349MB
+01:31:13 vllm_worker: count=2 total=3MB
+---
+01:31:15 raylet: count=1 total=71MB
+01:31:15 task_runner: count=3 total=5349MB
+01:31:15 vllm_worker: count=2 total=3MB
+---
+01:31:17 raylet: count=1 total=69MB
+01:31:17 task_runner: count=3 total=5349MB
+01:31:17 vllm_worker: count=2 total=3MB
+---
+01:31:19 raylet: count=1 total=69MB
+01:31:19 task_runner: count=3 total=5349MB
+01:31:19 vllm_worker: count=2 total=3MB
+---
+01:31:21 raylet: count=1 total=69MB
+01:31:21 task_runner: count=3 total=5349MB
+01:31:21 vllm_worker: count=2 total=3MB
+---
+01:31:24 raylet: count=1 total=69MB
+01:31:24 task_runner: count=3 total=5349MB
+01:31:24 vllm_worker: count=2 total=3MB
+---
+01:31:26 raylet: count=1 total=73MB
+01:31:26 task_runner: count=3 total=5349MB
+01:31:26 vllm_worker: count=2 total=3MB
+---
+01:31:28 raylet: count=1 total=73MB
+01:31:28 task_runner: count=3 total=5349MB
+01:31:28 vllm_worker: count=2 total=3MB
+---
+01:31:30 raylet: count=1 total=71MB
+01:31:30 task_runner: count=3 total=5352MB
+01:31:30 vllm_worker: count=2 total=3MB
+---
+01:31:32 raylet: count=1 total=69MB
+01:31:32 task_runner: count=1 total=1729MB
+01:31:32 vllm_worker: count=2 total=3MB
+---
+01:31:34 raylet: count=1 total=69MB
+01:31:34 task_runner: count=1 total=1729MB
+01:31:34 vllm_worker: count=2 total=3MB
+---
+01:31:36 raylet: count=1 total=70MB
+01:31:36 task_runner: count=3 total=4260MB
+01:31:36 vllm_worker: count=2 total=3MB
+---
+01:31:38 raylet: count=1 total=70MB
+01:31:38 task_runner: count=3 total=4321MB
+01:31:38 vllm_worker: count=2 total=3MB
+---
+01:31:40 raylet: count=1 total=74MB
+01:31:40 task_runner: count=3 total=4491MB
+01:31:40 vllm_worker: count=2 total=3MB
+---
+01:31:42 raylet: count=1 total=74MB
+01:31:42 task_runner: count=3 total=4630MB
+01:31:42 vllm_worker: count=2 total=3MB
+---
+01:31:44 raylet: count=1 total=72MB
+01:31:44 task_runner: count=3 total=4746MB
+01:31:44 vllm_worker: count=2 total=3MB
+---
+01:31:46 raylet: count=1 total=70MB
+01:31:46 task_runner: count=3 total=4845MB
+01:31:46 vllm_worker: count=2 total=3MB
+---
+01:31:48 raylet: count=1 total=69MB
+01:31:48 task_runner: count=3 total=4945MB
+01:31:48 vllm_worker: count=2 total=3MB
+---
+01:31:50 raylet: count=2 total=115MB
+01:31:50 task_runner: count=1 total=1701MB
+01:31:50 vllm_worker: count=2 total=3MB
+---
+01:31:52 raylet: count=9 total=406MB
+01:31:52 task_runner: count=1 total=1702MB
+01:31:52 vllm_worker: count=2 total=3MB
+---
+01:31:54 raylet: count=1 total=72MB
+01:31:54 task_runner: count=1 total=1702MB
+01:31:54 vllm_worker: count=2 total=3MB
+---
+01:31:56 raylet: count=1 total=75MB
+01:31:56 task_runner: count=1 total=1702MB
+01:31:56 vllm_worker: count=2 total=3MB
+---
+01:31:58 raylet: count=1 total=75MB
+01:31:58 task_runner: count=1 total=1702MB
+01:31:58 vllm_worker: count=2 total=3MB
+---
+01:32:00 raylet: count=1 total=74MB
+01:32:00 task_runner: count=1 total=1702MB
+01:32:00 vllm_worker: count=2 total=3MB
+---
+01:32:02 raylet: count=1 total=73MB
+01:32:02 task_runner: count=1 total=1702MB
+01:32:02 vllm_worker: count=2 total=3MB
+---
+01:32:04 raylet: count=1 total=72MB
+01:32:04 task_runner: count=1 total=1702MB
+01:32:04 vllm_worker: count=2 total=3MB
+---
+01:32:06 raylet: count=1 total=73MB
+01:32:06 task_runner: count=1 total=1702MB
+01:32:06 vllm_worker: count=2 total=3MB
+---
+01:32:08 raylet: count=1 total=72MB
+01:32:08 task_runner: count=1 total=1702MB
+01:32:08 vllm_worker: count=2 total=3MB
+---
+01:32:11 raylet: count=1 total=76MB
+01:32:11 task_runner: count=1 total=1702MB
+01:32:11 vllm_worker: count=2 total=3MB
+---
+01:32:13 raylet: count=1 total=76MB
+01:32:13 task_runner: count=1 total=1702MB
+01:32:13 vllm_worker: count=2 total=3MB
+---
+01:32:15 raylet: count=1 total=75MB
+01:32:15 task_runner: count=1 total=1702MB
+01:32:15 vllm_worker: count=2 total=3MB
+---
+01:32:17 raylet: count=1 total=74MB
+01:32:17 task_runner: count=1 total=1702MB
+01:32:17 vllm_worker: count=2 total=3MB
+---
+01:32:19 raylet: count=1 total=74MB
+01:32:19 task_runner: count=1 total=1702MB
+01:32:19 vllm_worker: count=2 total=3MB
+---
+01:32:21 raylet: count=1 total=73MB
+01:32:21 task_runner: count=1 total=1702MB
+01:32:21 vllm_worker: count=2 total=3MB
+---
+01:32:23 raylet: count=1 total=74MB
+01:32:23 task_runner: count=1 total=1702MB
+01:32:23 vllm_worker: count=2 total=3MB
+---
+01:32:25 raylet: count=1 total=73MB
+01:32:25 task_runner: count=1 total=1702MB
+01:32:25 vllm_worker: count=2 total=3MB
+---
+01:32:27 raylet: count=1 total=76MB
+01:32:27 task_runner: count=1 total=1702MB
+01:32:27 vllm_worker: count=2 total=3MB
+---
+01:32:29 raylet: count=1 total=75MB
+01:32:29 task_runner: count=1 total=1702MB
+01:32:29 vllm_worker: count=2 total=3MB
+---
+01:32:31 raylet: count=1 total=74MB
+01:32:31 task_runner: count=1 total=1702MB
+01:32:31 vllm_worker: count=2 total=3MB
+---
+01:32:33 raylet: count=1 total=73MB
+01:32:33 task_runner: count=1 total=1702MB
+01:32:33 vllm_worker: count=2 total=3MB
+---
+01:32:35 raylet: count=1 total=73MB
+01:32:35 task_runner: count=1 total=1702MB
+01:32:35 vllm_worker: count=2 total=3MB
+---
+01:32:37 raylet: count=1 total=73MB
+01:32:37 task_runner: count=1 total=1702MB
+01:32:37 vllm_worker: count=2 total=3MB
+---
+01:32:39 raylet: count=1 total=73MB
+01:32:39 task_runner: count=1 total=1702MB
+01:32:39 vllm_worker: count=2 total=3MB
+---
+01:32:41 raylet: count=1 total=76MB
+01:32:41 task_runner: count=1 total=1702MB
+01:32:41 vllm_worker: count=2 total=3MB
+---
+01:32:43 raylet: count=1 total=76MB
+01:32:43 task_runner: count=1 total=1702MB
+01:32:43 vllm_worker: count=2 total=3MB
+---
+01:32:45 raylet: count=1 total=75MB
+01:32:45 task_runner: count=1 total=1702MB
+01:32:45 vllm_worker: count=2 total=3MB
+---
+01:32:47 raylet: count=1 total=74MB
+01:32:47 task_runner: count=1 total=1702MB
+01:32:47 vllm_worker: count=2 total=3MB
+---
+01:32:49 raylet: count=1 total=73MB
+01:32:49 task_runner: count=1 total=1702MB
+01:32:49 vllm_worker: count=2 total=3MB
+---
+01:32:51 raylet: count=1 total=72MB
+01:32:51 task_runner: count=1 total=1702MB
+01:32:51 vllm_worker: count=2 total=3MB
+---
+01:32:53 raylet: count=1 total=72MB
+01:32:53 task_runner: count=1 total=1702MB
+01:32:53 vllm_worker: count=2 total=3MB
+---
+01:32:55 raylet: count=1 total=76MB
+01:32:55 task_runner: count=1 total=1702MB
+01:32:55 vllm_worker: count=2 total=3MB
+---
+01:32:57 raylet: count=1 total=76MB
+01:32:57 task_runner: count=1 total=1702MB
+01:32:57 vllm_worker: count=2 total=3MB
+---
+01:33:00 raylet: count=1 total=75MB
+01:33:00 task_runner: count=1 total=1702MB
+01:33:00 vllm_worker: count=2 total=3MB
+---
+01:33:02 raylet: count=1 total=74MB
+01:33:02 task_runner: count=1 total=1702MB
+01:33:02 vllm_worker: count=2 total=3MB
+---
+01:33:04 raylet: count=1 total=74MB
+01:33:04 task_runner: count=1 total=1702MB
+01:33:04 vllm_worker: count=2 total=3MB
+---
+01:33:06 raylet: count=1 total=73MB
+01:33:06 task_runner: count=1 total=1702MB
+01:33:06 vllm_worker: count=2 total=3MB
+---
+01:33:08 raylet: count=1 total=73MB
+01:33:08 task_runner: count=1 total=1702MB
+01:33:08 vllm_worker: count=2 total=3MB
+---
+01:33:10 raylet: count=1 total=73MB
+01:33:10 task_runner: count=1 total=1702MB
+01:33:10 vllm_worker: count=2 total=3MB
+---
+01:33:12 raylet: count=1 total=76MB
+01:33:12 task_runner: count=1 total=1702MB
+01:33:12 vllm_worker: count=2 total=3MB
+---
+01:33:14 raylet: count=1 total=75MB
+01:33:14 task_runner: count=1 total=1702MB
+01:33:14 vllm_worker: count=2 total=3MB
+---
+01:33:16 raylet: count=1 total=75MB
+01:33:16 task_runner: count=1 total=1702MB
+01:33:16 vllm_worker: count=2 total=3MB
+---
+01:33:18 raylet: count=1 total=74MB
+01:33:18 task_runner: count=1 total=1702MB
+01:33:18 vllm_worker: count=2 total=3MB
+---
+01:33:20 raylet: count=1 total=73MB
+01:33:20 task_runner: count=1 total=1702MB
+01:33:20 vllm_worker: count=2 total=3MB
+---
+01:33:22 raylet: count=1 total=73MB
+01:33:22 task_runner: count=1 total=1702MB
+01:33:22 vllm_worker: count=2 total=3MB
+---
+01:33:24 raylet: count=1 total=73MB
+01:33:24 task_runner: count=1 total=1702MB
+01:33:24 vllm_worker: count=2 total=3MB
+---
+01:33:26 raylet: count=9 total=551MB
+01:33:26 task_runner: count=1 total=1710MB
+01:33:26 vllm_worker: count=2 total=3MB
+---
+01:33:28 raylet: count=1 total=78MB
+01:33:28 task_runner: count=1 total=1753MB
+01:33:28 vllm_worker: count=2 total=3MB
+---
+01:33:30 raylet: count=1 total=77MB
+01:33:30 task_runner: count=1 total=1754MB
+01:33:30 vllm_worker: count=2 total=3MB
+---
+01:33:32 raylet: count=1 total=76MB
+01:33:32 task_runner: count=1 total=1754MB
+01:33:32 vllm_worker: count=2 total=3MB
+---
+01:33:34 raylet: count=1 total=75MB
+01:33:34 task_runner: count=1 total=1754MB
+01:33:34 vllm_worker: count=2 total=3MB
+---
+01:33:36 raylet: count=1 total=75MB
+01:33:36 task_runner: count=1 total=1754MB
+01:33:36 vllm_worker: count=2 total=3MB
+---
+01:33:38 raylet: count=1 total=75MB
+01:33:38 reward_loop: count=5 total=5669MB
+01:33:38 task_runner: count=1 total=1754MB
+01:33:38 vllm_worker: count=2 total=3MB
+---
+01:33:40 raylet: count=1 total=75MB
+01:33:40 reward_loop: count=8 total=10472MB
+01:33:40 task_runner: count=1 total=1754MB
+01:33:40 vllm_worker: count=2 total=3MB
+---
+01:33:42 raylet: count=1 total=78MB
+01:33:42 reward_loop: count=8 total=10286MB
+01:33:42 task_runner: count=1 total=1754MB
+01:33:42 vllm_worker: count=2 total=3MB
+---
+01:33:44 raylet: count=1 total=77MB
+01:33:44 reward_loop: count=8 total=10286MB
+01:33:44 task_runner: count=1 total=1754MB
+01:33:44 vllm_http: count=1 total=1261MB
+01:33:44 vllm_worker: count=2 total=3MB
+---
+01:33:46 raylet: count=1 total=76MB
+01:33:46 reward_loop: count=8 total=10286MB
+01:33:46 task_runner: count=1 total=1754MB
+01:33:46 vllm_http: count=1 total=1435MB
+01:33:46 vllm_worker: count=2 total=3MB
+---
+01:33:49 raylet: count=1 total=75MB
+01:33:49 reward_loop: count=8 total=10287MB
+01:33:49 task_runner: count=1 total=1754MB
+01:33:49 vllm_http: count=1 total=1558MB
+01:33:49 vllm_worker: count=2 total=3MB
+---
+01:33:51 raylet: count=1 total=75MB
+01:33:51 reward_loop: count=8 total=10287MB
+01:33:51 task_runner: count=1 total=1754MB
+01:33:51 vllm_http: count=1 total=1580MB
+01:33:51 vllm_worker: count=2 total=3MB
+---
+01:33:53 raylet: count=1 total=75MB
+01:33:53 reward_loop: count=8 total=10287MB
+01:33:53 task_runner: count=1 total=1754MB
+01:33:53 vllm_http: count=1 total=1653MB
+01:33:53 vllm_worker: count=2 total=3MB
+---
+01:33:55 raylet: count=1 total=75MB
+01:33:55 reward_loop: count=8 total=10287MB
+01:33:55 task_runner: count=1 total=1754MB
+01:33:55 vllm_http: count=1 total=1753MB
+01:33:55 vllm_worker: count=2 total=3MB
+---
+01:33:57 raylet: count=1 total=79MB
+01:33:57 reward_loop: count=8 total=10287MB
+01:33:57 task_runner: count=1 total=1754MB
+01:33:57 vllm_http: count=1 total=1809MB
+01:33:57 vllm_worker: count=2 total=3MB
+---
+01:33:59 raylet: count=1 total=78MB
+01:33:59 reward_loop: count=8 total=10287MB
+01:33:59 task_runner: count=1 total=1754MB
+01:33:59 vllm_http: count=1 total=1899MB
+01:33:59 vllm_worker: count=2 total=3MB
+---
+01:34:01 raylet: count=1 total=77MB
+01:34:01 reward_loop: count=8 total=10287MB
+01:34:01 task_runner: count=1 total=1754MB
+01:34:01 vllm_http: count=1 total=1891MB
+01:34:01 vllm_worker: count=2 total=4MB
+---
+01:34:03 raylet: count=1 total=76MB
+01:34:03 reward_loop: count=8 total=10287MB
+01:34:03 task_runner: count=1 total=1754MB
+01:34:03 vllm_http: count=1 total=1980MB
+01:34:03 vllm_worker: count=2 total=3MB
+---
+01:34:05 raylet: count=1 total=76MB
+01:34:05 reward_loop: count=8 total=10287MB
+01:34:05 task_runner: count=1 total=1754MB
+01:34:05 vllm_http: count=1 total=2122MB
+01:34:05 vllm_worker: count=2 total=3MB
+---
+01:34:07 raylet: count=1 total=76MB
+01:34:07 reward_loop: count=8 total=10287MB
+01:34:07 task_runner: count=1 total=1754MB
+01:34:07 vllm_http: count=1 total=2207MB
+01:34:07 vllm_worker: count=2 total=4MB
+---
+01:34:09 raylet: count=1 total=76MB
+01:34:09 reward_loop: count=8 total=10287MB
+01:34:09 task_runner: count=1 total=1754MB
+01:34:09 vllm_http: count=1 total=2201MB
+01:34:09 vllm_worker: count=2 total=3MB
+---
+01:34:11 raylet: count=1 total=79MB
+01:34:11 reward_loop: count=8 total=10287MB
+01:34:11 task_runner: count=1 total=1754MB
+01:34:11 vllm_http: count=1 total=2232MB
+01:34:11 vllm_worker: count=2 total=3MB
+---
+01:34:13 raylet: count=1 total=79MB
+01:34:13 reward_loop: count=8 total=10287MB
+01:34:13 task_runner: count=1 total=1754MB
+01:34:13 vllm_http: count=1 total=2232MB
+01:34:13 vllm_worker: count=2 total=4MB
+---
+01:34:15 raylet: count=1 total=78MB
+01:34:15 reward_loop: count=8 total=10287MB
+01:34:15 task_runner: count=1 total=1754MB
+01:34:15 vllm_http: count=1 total=2232MB
+01:34:15 vllm_worker: count=2 total=3MB
+---
+01:34:17 raylet: count=1 total=77MB
+01:34:17 reward_loop: count=8 total=10287MB
+01:34:17 task_runner: count=1 total=1754MB
+01:34:17 vllm_http: count=1 total=2232MB
+01:34:17 vllm_worker: count=2 total=3MB
+---
+01:34:19 raylet: count=1 total=76MB
+01:34:19 reward_loop: count=8 total=10287MB
+01:34:19 task_runner: count=1 total=1754MB
+01:34:19 vllm_http: count=1 total=2232MB
+01:34:19 vllm_worker: count=2 total=4MB
+---
+01:34:21 raylet: count=1 total=75MB
+01:34:21 reward_loop: count=8 total=10287MB
+01:34:21 task_runner: count=1 total=1754MB
+01:34:21 vllm_http: count=1 total=2232MB
+01:34:21 vllm_worker: count=2 total=4MB
+---
+01:34:23 raylet: count=1 total=75MB
+01:34:23 reward_loop: count=8 total=10287MB
+01:34:23 task_runner: count=1 total=1754MB
+01:34:23 vllm_http: count=1 total=2232MB
+01:34:23 vllm_worker: count=2 total=3MB
+---
+01:34:25 raylet: count=1 total=75MB
+01:34:25 reward_loop: count=8 total=10287MB
+01:34:25 task_runner: count=1 total=1754MB
+01:34:25 vllm_http: count=1 total=2232MB
+01:34:25 vllm_worker: count=2 total=3MB
+---
+01:34:27 raylet: count=1 total=78MB
+01:34:27 reward_loop: count=8 total=10287MB
+01:34:27 task_runner: count=1 total=1754MB
+01:34:27 vllm_http: count=1 total=2232MB
+01:34:27 vllm_worker: count=2 total=3MB
+---
+01:34:29 raylet: count=1 total=78MB
+01:34:29 reward_loop: count=8 total=10287MB
+01:34:29 task_runner: count=1 total=1754MB
+01:34:29 vllm_http: count=1 total=2232MB
+01:34:29 vllm_worker: count=2 total=4MB
+---
+01:34:31 raylet: count=1 total=77MB
+01:34:31 reward_loop: count=8 total=10287MB
+01:34:31 task_runner: count=1 total=1754MB
+01:34:31 vllm_http: count=1 total=2232MB
+01:34:31 vllm_worker: count=2 total=4MB
+---
+01:34:33 raylet: count=1 total=76MB
+01:34:33 reward_loop: count=8 total=10287MB
+01:34:33 task_runner: count=1 total=1754MB
+01:34:33 vllm_http: count=1 total=2232MB
+01:34:33 vllm_worker: count=2 total=3MB
+---
+01:34:35 raylet: count=1 total=75MB
+01:34:35 reward_loop: count=8 total=10287MB
+01:34:35 task_runner: count=1 total=1754MB
+01:34:35 vllm_http: count=1 total=2232MB
+01:34:35 vllm_worker: count=2 total=4MB
+---
+01:34:37 raylet: count=1 total=75MB
+01:34:37 reward_loop: count=8 total=10287MB
+01:34:37 task_runner: count=1 total=1754MB
+01:34:37 vllm_http: count=1 total=2232MB
+01:34:37 vllm_worker: count=2 total=3MB
+---
+01:34:39 raylet: count=1 total=75MB
+01:34:39 reward_loop: count=8 total=10287MB
+01:34:39 task_runner: count=1 total=1754MB
+01:34:39 vllm_http: count=1 total=2232MB
+01:34:39 vllm_worker: count=2 total=3MB
+---
+01:34:42 raylet: count=1 total=78MB
+01:34:42 reward_loop: count=8 total=10287MB
+01:34:42 task_runner: count=1 total=1754MB
+01:34:42 vllm_http: count=1 total=2232MB
+01:34:42 vllm_worker: count=2 total=4MB
+---
+01:34:44 raylet: count=1 total=78MB
+01:34:44 reward_loop: count=8 total=10287MB
+01:34:44 task_runner: count=1 total=1754MB
+01:34:44 vllm_http: count=1 total=2232MB
+01:34:44 vllm_worker: count=10 total=16386MB
+---
+01:34:46 raylet: count=1 total=77MB
+01:34:46 reward_loop: count=8 total=10287MB
+01:34:46 task_runner: count=1 total=1754MB
+01:34:46 vllm_http: count=1 total=2232MB
+01:34:46 vllm_worker: count=10 total=16618MB
+---
+01:34:48 raylet: count=1 total=76MB
+01:34:48 reward_loop: count=8 total=10287MB
+01:34:48 task_runner: count=1 total=1754MB
+01:34:48 vllm_http: count=1 total=2232MB
+01:34:48 vllm_worker: count=10 total=27853MB
+---
+01:34:50 raylet: count=1 total=75MB
+01:34:50 reward_loop: count=8 total=10287MB
+01:34:50 task_runner: count=1 total=1754MB
+01:34:50 vllm_http: count=1 total=2232MB
+01:34:50 vllm_worker: count=10 total=29296MB
+---
+01:34:52 raylet: count=1 total=75MB
+01:34:52 reward_loop: count=8 total=10287MB
+01:34:52 task_runner: count=1 total=1754MB
+01:34:52 vllm_http: count=1 total=2232MB
+01:34:52 vllm_worker: count=10 total=29478MB
+---
+01:34:54 raylet: count=1 total=75MB
+01:34:54 reward_loop: count=8 total=10287MB
+01:34:54 task_runner: count=1 total=1754MB
+01:34:54 vllm_http: count=1 total=2232MB
+01:34:54 vllm_worker: count=10 total=29886MB
+---
+01:34:56 raylet: count=1 total=78MB
+01:34:56 reward_loop: count=8 total=10287MB
+01:34:56 task_runner: count=1 total=1754MB
+01:34:56 vllm_http: count=1 total=2232MB
+01:34:56 vllm_worker: count=10 total=30778MB
+---
+01:34:58 raylet: count=1 total=78MB
+01:34:58 reward_loop: count=8 total=10287MB
+01:34:58 task_runner: count=1 total=1754MB
+01:34:58 vllm_http: count=1 total=2232MB
+01:34:58 vllm_worker: count=10 total=31594MB
+---
+01:35:00 raylet: count=1 total=77MB
+01:35:00 reward_loop: count=8 total=10287MB
+01:35:00 task_runner: count=1 total=1754MB
+01:35:00 vllm_http: count=1 total=2232MB
+01:35:00 vllm_worker: count=10 total=32244MB
+---
+01:35:02 raylet: count=1 total=76MB
+01:35:02 reward_loop: count=8 total=10287MB
+01:35:02 task_runner: count=1 total=1754MB
+01:35:02 vllm_http: count=1 total=2232MB
+01:35:02 vllm_worker: count=10 total=33631MB
+---
+01:35:04 raylet: count=1 total=75MB
+01:35:04 reward_loop: count=8 total=10287MB
+01:35:04 task_runner: count=1 total=1754MB
+01:35:04 vllm_http: count=1 total=2232MB
+01:35:04 vllm_worker: count=10 total=31104MB
+---
+01:35:06 raylet: count=1 total=75MB
+01:35:06 reward_loop: count=8 total=10287MB
+01:35:06 task_runner: count=1 total=1754MB
+01:35:06 vllm_http: count=1 total=2232MB
+01:35:06 vllm_worker: count=10 total=31174MB
+---
+01:35:08 raylet: count=1 total=75MB
+01:35:08 reward_loop: count=8 total=10287MB
+01:35:08 task_runner: count=1 total=1754MB
+01:35:08 vllm_http: count=1 total=2232MB
+01:35:08 vllm_worker: count=10 total=33289MB
+---
+01:35:10 raylet: count=1 total=75MB
+01:35:10 reward_loop: count=8 total=10287MB
+01:35:10 task_runner: count=1 total=1754MB
+01:35:10 vllm_http: count=1 total=2232MB
+01:35:10 vllm_worker: count=10 total=34741MB
+---
+01:35:12 raylet: count=1 total=79MB
+01:35:12 reward_loop: count=8 total=10287MB
+01:35:12 task_runner: count=1 total=1754MB
+01:35:12 vllm_http: count=1 total=2232MB
+01:35:12 vllm_worker: count=10 total=34793MB
+---
+01:35:14 raylet: count=1 total=78MB
+01:35:14 reward_loop: count=8 total=10287MB
+01:35:14 task_runner: count=1 total=1754MB
+01:35:14 vllm_http: count=1 total=2232MB
+01:35:14 vllm_worker: count=10 total=34847MB
+---
+01:35:16 raylet: count=1 total=77MB
+01:35:16 reward_loop: count=8 total=10287MB
+01:35:16 task_runner: count=1 total=1754MB
+01:35:16 vllm_http: count=1 total=2232MB
+01:35:16 vllm_worker: count=10 total=34942MB
+---
+01:35:18 raylet: count=1 total=76MB
+01:35:18 reward_loop: count=8 total=10287MB
+01:35:18 task_runner: count=1 total=1754MB
+01:35:18 vllm_http: count=1 total=2232MB
+01:35:18 vllm_worker: count=10 total=35088MB
+---
+01:35:20 raylet: count=1 total=75MB
+01:35:20 reward_loop: count=8 total=10287MB
+01:35:20 task_runner: count=1 total=1754MB
+01:35:20 vllm_http: count=1 total=2232MB
+01:35:20 vllm_worker: count=10 total=35114MB
+---
+01:35:22 raylet: count=1 total=75MB
+01:35:22 reward_loop: count=8 total=10287MB
+01:35:22 task_runner: count=1 total=1754MB
+01:35:22 vllm_http: count=1 total=2232MB
+01:35:22 vllm_worker: count=10 total=35164MB
+---
+01:35:24 raylet: count=1 total=75MB
+01:35:24 reward_loop: count=8 total=10287MB
+01:35:24 task_runner: count=1 total=1754MB
+01:35:24 vllm_http: count=1 total=2232MB
+01:35:24 vllm_worker: count=10 total=35170MB
+---
+01:35:26 raylet: count=1 total=79MB
+01:35:26 reward_loop: count=8 total=10287MB
+01:35:26 task_runner: count=1 total=1754MB
+01:35:26 vllm_http: count=1 total=2232MB
+01:35:26 vllm_worker: count=10 total=35207MB
+---
+01:35:28 raylet: count=1 total=78MB
+01:35:28 reward_loop: count=8 total=10287MB
+01:35:28 task_runner: count=1 total=1754MB
+01:35:28 vllm_http: count=1 total=2232MB
+01:35:28 vllm_worker: count=10 total=35268MB
+---
+01:35:31 raylet: count=1 total=77MB
+01:35:31 reward_loop: count=8 total=10287MB
+01:35:31 task_runner: count=1 total=1754MB
+01:35:31 vllm_http: count=1 total=2232MB
+01:35:31 vllm_worker: count=10 total=35330MB
+---
+01:35:33 raylet: count=1 total=76MB
+01:35:33 reward_loop: count=8 total=10287MB
+01:35:33 task_runner: count=1 total=1754MB
+01:35:33 vllm_http: count=1 total=2232MB
+01:35:33 vllm_worker: count=10 total=35391MB
+---
+01:35:35 raylet: count=1 total=75MB
+01:35:35 reward_loop: count=8 total=10287MB
+01:35:35 task_runner: count=1 total=1754MB
+01:35:35 vllm_http: count=1 total=2232MB
+01:35:35 vllm_worker: count=10 total=35420MB
+---
+01:35:37 raylet: count=1 total=75MB
+01:35:37 reward_loop: count=8 total=10287MB
+01:35:37 task_runner: count=1 total=1754MB
+01:35:37 vllm_http: count=1 total=2232MB
+01:35:37 vllm_worker: count=10 total=35520MB
+---
+01:35:39 raylet: count=1 total=75MB
+01:35:39 reward_loop: count=8 total=10287MB
+01:35:39 task_runner: count=1 total=1754MB
+01:35:39 vllm_http: count=1 total=2232MB
+01:35:39 vllm_worker: count=10 total=35603MB
+---
+01:35:41 raylet: count=1 total=75MB
+01:35:41 reward_loop: count=8 total=10287MB
+01:35:41 task_runner: count=1 total=1754MB
+01:35:41 vllm_http: count=1 total=2232MB
+01:35:41 vllm_worker: count=10 total=35603MB
+---
+01:35:43 raylet: count=1 total=78MB
+01:35:43 reward_loop: count=8 total=10287MB
+01:35:43 task_runner: count=1 total=1754MB
+01:35:43 vllm_http: count=1 total=2232MB
+01:35:43 vllm_worker: count=10 total=36095MB
+---
+01:35:45 raylet: count=1 total=77MB
+01:35:45 reward_loop: count=8 total=10287MB
+01:35:45 task_runner: count=1 total=1754MB
+01:35:45 vllm_http: count=1 total=2232MB
+01:35:45 vllm_worker: count=10 total=37879MB
+---
+01:35:47 raylet: count=1 total=76MB
+01:35:47 reward_loop: count=8 total=10287MB
+01:35:47 task_runner: count=1 total=1754MB
+01:35:47 vllm_http: count=1 total=2232MB
+01:35:47 vllm_worker: count=10 total=40607MB
+---
+01:35:49 raylet: count=1 total=75MB
+01:35:49 reward_loop: count=8 total=10287MB
+01:35:49 task_runner: count=1 total=1754MB
+01:35:49 vllm_http: count=1 total=2232MB
+01:35:49 vllm_worker: count=10 total=43921MB
+---
+01:35:51 raylet: count=1 total=74MB
+01:35:51 reward_loop: count=8 total=10287MB
+01:35:51 task_runner: count=1 total=1754MB
+01:35:51 vllm_http: count=1 total=2232MB
+01:35:51 vllm_worker: count=10 total=47218MB
+---
+01:35:53 raylet: count=1 total=75MB
+01:35:53 reward_loop: count=8 total=10287MB
+01:35:53 task_runner: count=1 total=1754MB
+01:35:53 vllm_http: count=1 total=2232MB
+01:35:53 vllm_worker: count=10 total=50414MB
+---
+01:35:55 raylet: count=1 total=75MB
+01:35:55 reward_loop: count=8 total=10287MB
+01:35:55 task_runner: count=1 total=1754MB
+01:35:55 vllm_http: count=1 total=2232MB
+01:35:55 vllm_worker: count=10 total=53581MB
+---
+01:35:57 raylet: count=1 total=79MB
+01:35:57 reward_loop: count=8 total=10287MB
+01:35:57 task_runner: count=1 total=1754MB
+01:35:57 vllm_http: count=1 total=2232MB
+01:35:57 vllm_worker: count=10 total=56858MB
+---
+01:35:59 raylet: count=1 total=78MB
+01:35:59 reward_loop: count=8 total=10287MB
+01:35:59 task_runner: count=1 total=1754MB
+01:35:59 vllm_http: count=1 total=2232MB
+01:35:59 vllm_worker: count=10 total=59971MB
+---
+01:36:01 raylet: count=1 total=78MB
+01:36:01 reward_loop: count=8 total=10287MB
+01:36:01 task_runner: count=1 total=1754MB
+01:36:01 vllm_http: count=1 total=2232MB
+01:36:01 vllm_worker: count=10 total=63084MB
+---
+01:36:03 raylet: count=1 total=76MB
+01:36:03 reward_loop: count=8 total=10287MB
+01:36:03 task_runner: count=1 total=1754MB
+01:36:03 vllm_http: count=1 total=2232MB
+01:36:03 vllm_worker: count=10 total=66191MB
+---
+01:36:05 raylet: count=1 total=76MB
+01:36:05 reward_loop: count=8 total=10287MB
+01:36:05 task_runner: count=1 total=1754MB
+01:36:05 vllm_http: count=1 total=2232MB
+01:36:05 vllm_worker: count=10 total=67395MB
+---
+01:36:07 raylet: count=1 total=75MB
+01:36:07 reward_loop: count=8 total=10287MB
+01:36:07 task_runner: count=1 total=1754MB
+01:36:07 vllm_http: count=1 total=2232MB
+01:36:07 vllm_worker: count=10 total=67395MB
+---
+01:36:09 raylet: count=1 total=75MB
+01:36:09 reward_loop: count=8 total=10287MB
+01:36:09 task_runner: count=1 total=1754MB
+01:36:09 vllm_http: count=1 total=2232MB
+01:36:09 vllm_worker: count=10 total=67395MB
+---
+01:36:11 raylet: count=1 total=79MB
+01:36:11 reward_loop: count=8 total=10288MB
+01:36:11 task_runner: count=1 total=1754MB
+01:36:11 vllm_http: count=1 total=2232MB
+01:36:11 vllm_worker: count=10 total=67395MB
+---
+01:36:13 raylet: count=1 total=78MB
+01:36:13 reward_loop: count=8 total=10288MB
+01:36:13 task_runner: count=1 total=1754MB
+01:36:13 vllm_http: count=1 total=2232MB
+01:36:13 vllm_worker: count=10 total=67395MB
+---
+01:36:15 raylet: count=1 total=78MB
+01:36:15 reward_loop: count=8 total=10288MB
+01:36:15 task_runner: count=1 total=1754MB
+01:36:15 vllm_http: count=1 total=2232MB
+01:36:15 vllm_worker: count=10 total=67395MB
+---
+01:36:17 raylet: count=1 total=76MB
+01:36:17 reward_loop: count=8 total=10288MB
+01:36:17 task_runner: count=1 total=1754MB
+01:36:17 vllm_http: count=1 total=2232MB
+01:36:17 vllm_worker: count=10 total=67395MB
+---
+01:36:19 raylet: count=1 total=75MB
+01:36:19 reward_loop: count=8 total=10288MB
+01:36:19 task_runner: count=1 total=1754MB
+01:36:19 vllm_http: count=1 total=2232MB
+01:36:19 vllm_worker: count=10 total=65860MB
+---
+01:36:22 raylet: count=1 total=75MB
+01:36:22 reward_loop: count=8 total=10288MB
+01:36:22 task_runner: count=1 total=1754MB
+01:36:22 vllm_http: count=1 total=2157MB
+01:36:22 vllm_worker: count=10 total=65860MB
+---
+01:36:24 raylet: count=1 total=75MB
+01:36:24 reward_loop: count=8 total=10288MB
+01:36:24 task_runner: count=1 total=1754MB
+01:36:24 vllm_http: count=1 total=2157MB
+01:36:24 vllm_worker: count=10 total=65859MB
+---
+01:36:26 raylet: count=1 total=75MB
+01:36:26 reward_loop: count=8 total=10288MB
+01:36:26 task_runner: count=1 total=1754MB
+01:36:26 vllm_http: count=1 total=2181MB
+01:36:26 vllm_worker: count=10 total=65860MB
+---
+01:36:28 raylet: count=1 total=79MB
+01:36:28 reward_loop: count=8 total=10288MB
+01:36:28 task_runner: count=1 total=1754MB
+01:36:28 vllm_http: count=1 total=2166MB
+01:36:28 vllm_worker: count=10 total=65859MB
+---
+01:36:30 raylet: count=1 total=78MB
+01:36:30 reward_loop: count=8 total=10288MB
+01:36:30 task_runner: count=1 total=1754MB
+01:36:30 vllm_http: count=1 total=2166MB
+01:36:30 vllm_worker: count=10 total=65859MB
+---
+01:36:32 raylet: count=1 total=77MB
+01:36:32 reward_loop: count=8 total=10288MB
+01:36:32 task_runner: count=1 total=1754MB
+01:36:32 vllm_http: count=1 total=2198MB
+01:36:32 vllm_worker: count=10 total=65860MB
+---
+01:36:34 raylet: count=1 total=76MB
+01:36:34 reward_loop: count=8 total=10288MB
+01:36:34 task_runner: count=1 total=1754MB
+01:36:34 vllm_http: count=1 total=3055MB
+01:36:34 vllm_worker: count=10 total=65860MB
+---
+01:36:36 raylet: count=1 total=76MB
+01:36:36 reward_loop: count=8 total=10288MB
+01:36:36 task_runner: count=1 total=1754MB
+01:36:36 vllm_http: count=1 total=2939MB
+01:36:36 vllm_worker: count=10 total=65860MB
+---
+01:36:38 raylet: count=9 total=344MB
+01:36:38 reward_loop: count=8 total=10288MB
+01:36:38 task_runner: count=1 total=1756MB
+01:36:38 vllm_http: count=1 total=2196MB
+01:36:38 vllm_worker: count=10 total=65860MB
+---
+01:36:40 raylet: count=1 total=77MB
+01:36:40 reward_loop: count=8 total=10288MB
+01:36:40 task_runner: count=1 total=1756MB
+01:36:40 vllm_http: count=1 total=2196MB
+01:36:40 vllm_worker: count=10 total=65860MB
+---
+01:36:42 raylet: count=1 total=81MB
+01:36:42 reward_loop: count=8 total=10288MB
+01:36:42 task_runner: count=1 total=1756MB
+01:36:42 vllm_http: count=1 total=2196MB
+01:36:42 vllm_worker: count=10 total=65860MB
+---
+01:36:44 raylet: count=1 total=81MB
+01:36:44 reward_loop: count=8 total=10288MB
+01:36:44 task_runner: count=1 total=1756MB
+01:36:44 vllm_http: count=1 total=2196MB
+01:36:44 vllm_worker: count=10 total=65860MB
+---
+01:36:46 raylet: count=1 total=80MB
+01:36:46 reward_loop: count=8 total=10288MB
+01:36:46 task_runner: count=1 total=1756MB
+01:36:46 vllm_http: count=1 total=2196MB
+01:36:46 vllm_worker: count=10 total=65860MB
+---
+01:36:48 raylet: count=1 total=78MB
+01:36:48 reward_loop: count=8 total=10288MB
+01:36:48 task_runner: count=1 total=1756MB
+01:36:48 vllm_http: count=1 total=2196MB
+01:36:48 vllm_worker: count=10 total=65860MB
+---
+01:36:50 agent_loop: count=1 total=1094MB
+01:36:50 raylet: count=1 total=77MB
+01:36:50 reward_loop: count=8 total=10288MB
+01:36:50 task_runner: count=1 total=1756MB
+01:36:50 vllm_http: count=1 total=2196MB
+01:36:50 vllm_worker: count=10 total=65861MB
+---
+01:36:52 agent_loop: count=8 total=10086MB
+01:36:52 raylet: count=1 total=77MB
+01:36:52 reward_loop: count=8 total=10288MB
+01:36:52 task_runner: count=1 total=1756MB
+01:36:52 vllm_http: count=1 total=2196MB
+01:36:52 vllm_worker: count=10 total=65867MB
+---
+01:36:54 agent_loop: count=8 total=10750MB
+01:36:54 raylet: count=1 total=77MB
+01:36:54 reward_loop: count=8 total=10288MB
+01:36:54 task_runner: count=1 total=1756MB
+01:36:54 vllm_http: count=1 total=2196MB
+01:36:54 vllm_worker: count=10 total=65867MB
+---
+01:36:56 agent_loop: count=8 total=11721MB
+01:36:56 raylet: count=1 total=77MB
+01:36:56 reward_loop: count=8 total=10288MB
+01:36:56 task_runner: count=1 total=1756MB
+01:36:56 vllm_http: count=1 total=2196MB
+01:36:56 vllm_worker: count=10 total=65922MB
+---
+01:36:58 agent_loop: count=8 total=11836MB
+01:36:58 raylet: count=1 total=81MB
+01:36:58 reward_loop: count=8 total=10288MB
+01:36:58 task_runner: count=1 total=1756MB
+01:36:58 vllm_http: count=1 total=2196MB
+01:36:58 vllm_worker: count=10 total=65923MB
+---
+01:37:00 agent_loop: count=8 total=11838MB
+01:37:00 raylet: count=1 total=80MB
+01:37:00 reward_loop: count=8 total=10288MB
+01:37:00 task_runner: count=1 total=1756MB
+01:37:00 vllm_http: count=1 total=2196MB
+01:37:00 vllm_worker: count=10 total=65923MB
+---
+01:37:02 agent_loop: count=8 total=11838MB
+01:37:02 raylet: count=1 total=79MB
+01:37:02 reward_loop: count=8 total=10288MB
+01:37:02 task_runner: count=1 total=1756MB
+01:37:02 vllm_http: count=1 total=2196MB
+01:37:02 vllm_worker: count=10 total=65924MB
+---
+01:37:04 agent_loop: count=8 total=11838MB
+01:37:04 raylet: count=1 total=78MB
+01:37:04 reward_loop: count=8 total=10288MB
+01:37:04 task_runner: count=1 total=1756MB
+01:37:04 vllm_http: count=1 total=2196MB
+01:37:04 vllm_worker: count=10 total=65924MB
+---
+01:37:06 agent_loop: count=8 total=11838MB
+01:37:06 raylet: count=1 total=77MB
+01:37:06 reward_loop: count=8 total=10288MB
+01:37:06 task_runner: count=1 total=1756MB
+01:37:06 vllm_http: count=1 total=2196MB
+01:37:06 vllm_worker: count=10 total=65924MB
+---
+01:37:09 agent_loop: count=8 total=11838MB
+01:37:09 raylet: count=1 total=77MB
+01:37:09 reward_loop: count=8 total=10288MB
+01:37:09 task_runner: count=1 total=1756MB
+01:37:09 vllm_http: count=1 total=2196MB
+01:37:09 vllm_worker: count=10 total=65924MB
+---
+01:37:11 agent_loop: count=8 total=11838MB
+01:37:11 raylet: count=1 total=77MB
+01:37:11 reward_loop: count=8 total=10288MB
+01:37:11 task_runner: count=1 total=1756MB
+01:37:11 vllm_http: count=1 total=2196MB
+01:37:11 vllm_worker: count=10 total=65925MB
+---
+01:37:13 agent_loop: count=8 total=11838MB
+01:37:13 raylet: count=1 total=81MB
+01:37:13 reward_loop: count=8 total=10288MB
+01:37:13 task_runner: count=1 total=1756MB
+01:37:13 vllm_http: count=1 total=2196MB
+01:37:13 vllm_worker: count=10 total=65925MB
+---
+01:37:15 agent_loop: count=8 total=11838MB
+01:37:15 raylet: count=1 total=81MB
+01:37:15 reward_loop: count=8 total=10288MB
+01:37:15 task_runner: count=1 total=1756MB
+01:37:15 vllm_http: count=1 total=2196MB
+01:37:15 vllm_worker: count=10 total=65925MB
+---
+01:37:17 agent_loop: count=8 total=11838MB
+01:37:17 raylet: count=1 total=79MB
+01:37:17 reward_loop: count=8 total=10288MB
+01:37:17 task_runner: count=1 total=1756MB
+01:37:17 vllm_http: count=1 total=2196MB
+01:37:17 vllm_worker: count=10 total=65925MB
+---
+01:37:19 agent_loop: count=8 total=11838MB
+01:37:19 raylet: count=1 total=78MB
+01:37:19 reward_loop: count=8 total=10288MB
+01:37:19 task_runner: count=1 total=1756MB
+01:37:19 vllm_http: count=1 total=2196MB
+01:37:19 vllm_worker: count=10 total=65925MB
+---
+01:37:21 agent_loop: count=8 total=11838MB
+01:37:21 raylet: count=1 total=77MB
+01:37:21 reward_loop: count=8 total=10288MB
+01:37:21 task_runner: count=1 total=1756MB
+01:37:21 vllm_http: count=1 total=2196MB
+01:37:21 vllm_worker: count=10 total=65925MB
+---
+01:37:23 agent_loop: count=8 total=11838MB
+01:37:23 raylet: count=1 total=77MB
+01:37:23 reward_loop: count=8 total=10288MB
+01:37:23 task_runner: count=1 total=1756MB
+01:37:23 vllm_http: count=1 total=2196MB
+01:37:23 vllm_worker: count=10 total=65925MB
+---
+01:37:25 agent_loop: count=8 total=11838MB
+01:37:25 raylet: count=1 total=77MB
+01:37:25 reward_loop: count=8 total=10288MB
+01:37:25 task_runner: count=1 total=1757MB
+01:37:25 vllm_http: count=1 total=2196MB
+01:37:25 vllm_worker: count=10 total=65925MB
+---
+01:37:27 agent_loop: count=8 total=11838MB
+01:37:27 raylet: count=1 total=80MB
+01:37:27 reward_loop: count=8 total=10288MB
+01:37:27 task_runner: count=1 total=1757MB
+01:37:27 vllm_http: count=1 total=2196MB
+01:37:27 vllm_worker: count=10 total=65925MB
+---
+01:37:29 agent_loop: count=8 total=11839MB
+01:37:29 raylet: count=1 total=81MB
+01:37:29 reward_loop: count=8 total=10288MB
+01:37:29 task_runner: count=1 total=1757MB
+01:37:29 vllm_http: count=1 total=2196MB
+01:37:29 vllm_worker: count=10 total=65925MB
+---
+01:37:31 agent_loop: count=8 total=11839MB
+01:37:31 raylet: count=1 total=79MB
+01:37:31 reward_loop: count=8 total=10288MB
+01:37:31 task_runner: count=1 total=1757MB
+01:37:31 vllm_http: count=1 total=2196MB
+01:37:31 vllm_worker: count=10 total=65925MB
+---
+01:37:33 agent_loop: count=8 total=11839MB
+01:37:33 raylet: count=1 total=78MB
+01:37:33 reward_loop: count=8 total=10288MB
+01:37:33 task_runner: count=1 total=1757MB
+01:37:33 vllm_http: count=1 total=2196MB
+01:37:33 vllm_worker: count=10 total=65925MB
+---
+01:37:35 agent_loop: count=8 total=11839MB
+01:37:35 raylet: count=1 total=77MB
+01:37:35 reward_loop: count=8 total=10288MB
+01:37:35 task_runner: count=1 total=1757MB
+01:37:35 vllm_http: count=1 total=2196MB
+01:37:35 vllm_worker: count=10 total=65925MB
+---
+01:37:37 agent_loop: count=8 total=11839MB
+01:37:37 raylet: count=1 total=76MB
+01:37:37 reward_loop: count=8 total=10288MB
+01:37:37 task_runner: count=1 total=1757MB
+01:37:37 vllm_http: count=1 total=2196MB
+01:37:37 vllm_worker: count=10 total=65925MB
+---
+01:37:39 agent_loop: count=8 total=11866MB
+01:37:39 raylet: count=1 total=76MB
+01:37:39 reward_loop: count=8 total=10289MB
+01:37:39 task_runner: count=9 total=12432MB
+01:37:39 vllm_http: count=1 total=2196MB
+01:37:39 vllm_worker: count=10 total=65925MB
+---
+01:37:41 agent_loop: count=8 total=12350MB
+01:37:41 raylet: count=1 total=76MB
+01:37:41 reward_loop: count=8 total=10289MB
+01:37:41 task_runner: count=9 total=12432MB
+01:37:41 vllm_http: count=1 total=2196MB
+01:37:41 vllm_worker: count=10 total=65925MB
+---
+01:37:43 agent_loop: count=8 total=12784MB
+01:37:43 raylet: count=1 total=81MB
+01:37:43 reward_loop: count=8 total=10289MB
+01:37:43 task_runner: count=9 total=12432MB
+01:37:43 vllm_http: count=1 total=2233MB
+01:37:43 vllm_worker: count=10 total=66872MB
+---
+01:37:45 agent_loop: count=8 total=12784MB
+01:37:45 raylet: count=1 total=81MB
+01:37:45 reward_loop: count=8 total=10289MB
+01:37:45 task_runner: count=9 total=12432MB
+01:37:45 vllm_http: count=1 total=2259MB
+01:37:45 vllm_worker: count=10 total=66872MB
+---
+01:37:47 agent_loop: count=8 total=12784MB
+01:37:47 raylet: count=1 total=80MB
+01:37:47 reward_loop: count=8 total=10289MB
+01:37:47 task_runner: count=9 total=12432MB
+01:37:47 vllm_http: count=1 total=2259MB
+01:37:47 vllm_worker: count=10 total=66872MB
+---
+01:37:49 agent_loop: count=8 total=12786MB
+01:37:49 raylet: count=1 total=79MB
+01:37:49 reward_loop: count=8 total=10289MB
+01:37:49 task_runner: count=9 total=12432MB
+01:37:49 vllm_http: count=1 total=2259MB
+01:37:49 vllm_worker: count=10 total=66872MB
+---
+01:37:51 agent_loop: count=8 total=12786MB
+01:37:51 raylet: count=1 total=79MB
+01:37:51 reward_loop: count=8 total=10289MB
+01:37:51 task_runner: count=9 total=12432MB
+01:37:51 vllm_http: count=1 total=2259MB
+01:37:51 vllm_worker: count=10 total=66872MB
+---
+01:37:54 agent_loop: count=8 total=12786MB
+01:37:54 raylet: count=1 total=79MB
+01:37:54 reward_loop: count=8 total=10289MB
+01:37:54 task_runner: count=9 total=12432MB
+01:37:54 vllm_http: count=1 total=2259MB
+01:37:54 vllm_worker: count=10 total=66872MB
+---
+01:37:56 agent_loop: count=8 total=12786MB
+01:37:56 raylet: count=1 total=79MB
+01:37:56 reward_loop: count=8 total=10289MB
+01:37:56 task_runner: count=9 total=12432MB
+01:37:56 vllm_http: count=1 total=2259MB
+01:37:56 vllm_worker: count=10 total=66872MB
+---
+01:37:58 agent_loop: count=8 total=12786MB
+01:37:58 raylet: count=1 total=79MB
+01:37:58 reward_loop: count=8 total=10289MB
+01:37:58 task_runner: count=9 total=12432MB
+01:37:58 vllm_http: count=1 total=2259MB
+01:37:58 vllm_worker: count=10 total=66872MB
+---
+01:38:00 agent_loop: count=8 total=12786MB
+01:38:00 raylet: count=1 total=83MB
+01:38:00 reward_loop: count=8 total=10289MB
+01:38:00 task_runner: count=9 total=12432MB
+01:38:00 vllm_http: count=1 total=2259MB
+01:38:00 vllm_worker: count=10 total=66872MB
+---
+01:38:02 agent_loop: count=8 total=12786MB
+01:38:02 raylet: count=1 total=82MB
+01:38:02 reward_loop: count=8 total=10289MB
+01:38:02 task_runner: count=9 total=12432MB
+01:38:02 vllm_http: count=1 total=2259MB
+01:38:02 vllm_worker: count=10 total=66872MB
+---
+01:38:04 agent_loop: count=8 total=12786MB
+01:38:04 raylet: count=1 total=81MB
+01:38:04 reward_loop: count=8 total=10289MB
+01:38:04 task_runner: count=9 total=12432MB
+01:38:04 vllm_http: count=1 total=2259MB
+01:38:04 vllm_worker: count=10 total=66872MB
+---
+01:38:06 agent_loop: count=8 total=12786MB
+01:38:06 raylet: count=1 total=79MB
+01:38:06 reward_loop: count=8 total=10289MB
+01:38:06 task_runner: count=9 total=12432MB
+01:38:06 vllm_http: count=1 total=2259MB
+01:38:06 vllm_worker: count=10 total=66872MB
+---
+01:38:08 agent_loop: count=8 total=12786MB
+01:38:08 raylet: count=1 total=78MB
+01:38:08 reward_loop: count=8 total=10289MB
+01:38:08 task_runner: count=9 total=12432MB
+01:38:08 vllm_http: count=1 total=2259MB
+01:38:08 vllm_worker: count=10 total=66872MB
+---
+01:38:10 agent_loop: count=8 total=12786MB
+01:38:10 raylet: count=1 total=78MB
+01:38:10 reward_loop: count=8 total=10289MB
+01:38:10 task_runner: count=9 total=12432MB
+01:38:10 vllm_http: count=1 total=2259MB
+01:38:10 vllm_worker: count=10 total=66872MB
+---
+01:38:12 agent_loop: count=8 total=12786MB
+01:38:12 raylet: count=1 total=78MB
+01:38:12 reward_loop: count=8 total=10289MB
+01:38:12 task_runner: count=9 total=12432MB
+01:38:12 vllm_http: count=1 total=2259MB
+01:38:12 vllm_worker: count=10 total=66872MB
+---
+01:38:14 agent_loop: count=8 total=12786MB
+01:38:14 raylet: count=1 total=82MB
+01:38:14 reward_loop: count=8 total=10289MB
+01:38:14 task_runner: count=9 total=12432MB
+01:38:14 vllm_http: count=1 total=2259MB
+01:38:14 vllm_worker: count=10 total=66872MB
+---
+01:38:16 agent_loop: count=8 total=12786MB
+01:38:16 raylet: count=1 total=82MB
+01:38:16 reward_loop: count=8 total=10289MB
+01:38:16 task_runner: count=9 total=12432MB
+01:38:16 vllm_http: count=1 total=2259MB
+01:38:16 vllm_worker: count=10 total=66872MB
+---
+01:38:18 agent_loop: count=8 total=12786MB
+01:38:18 raylet: count=1 total=82MB
+01:38:18 reward_loop: count=8 total=10289MB
+01:38:18 task_runner: count=9 total=12432MB
+01:38:18 vllm_http: count=1 total=2259MB
+01:38:18 vllm_worker: count=10 total=66872MB
+---
+01:38:20 agent_loop: count=8 total=12786MB
+01:38:20 raylet: count=1 total=80MB
+01:38:20 reward_loop: count=8 total=10289MB
+01:38:20 task_runner: count=9 total=12432MB
+01:38:20 vllm_http: count=1 total=2259MB
+01:38:20 vllm_worker: count=10 total=66872MB
+---
+01:38:22 agent_loop: count=8 total=12786MB
+01:38:22 raylet: count=1 total=79MB
+01:38:22 reward_loop: count=8 total=10289MB
+01:38:22 task_runner: count=9 total=12432MB
+01:38:22 vllm_http: count=1 total=2259MB
+01:38:22 vllm_worker: count=10 total=66872MB
+---
+01:38:24 agent_loop: count=8 total=12786MB
+01:38:24 raylet: count=1 total=79MB
+01:38:24 reward_loop: count=8 total=10289MB
+01:38:24 task_runner: count=9 total=12432MB
+01:38:24 vllm_http: count=1 total=2259MB
+01:38:24 vllm_worker: count=10 total=66872MB
+---
+01:38:26 agent_loop: count=8 total=12786MB
+01:38:26 raylet: count=1 total=79MB
+01:38:26 reward_loop: count=8 total=10289MB
+01:38:26 task_runner: count=9 total=12432MB
+01:38:26 vllm_http: count=1 total=2259MB
+01:38:26 vllm_worker: count=10 total=66872MB
+---
+01:38:28 agent_loop: count=8 total=12786MB
+01:38:28 raylet: count=1 total=79MB
+01:38:28 reward_loop: count=8 total=10289MB
+01:38:28 task_runner: count=9 total=12432MB
+01:38:28 vllm_http: count=1 total=2259MB
+01:38:28 vllm_worker: count=10 total=66872MB
+---
+01:38:30 agent_loop: count=8 total=12786MB
+01:38:30 raylet: count=1 total=83MB
+01:38:30 reward_loop: count=8 total=10289MB
+01:38:30 task_runner: count=9 total=12432MB
+01:38:30 vllm_http: count=1 total=2259MB
+01:38:30 vllm_worker: count=10 total=66872MB
+---
+01:38:32 agent_loop: count=8 total=12786MB
+01:38:32 raylet: count=1 total=82MB
+01:38:32 reward_loop: count=8 total=10289MB
+01:38:32 task_runner: count=9 total=12432MB
+01:38:32 vllm_http: count=1 total=2259MB
+01:38:32 vllm_worker: count=10 total=66872MB
+---
+01:38:34 agent_loop: count=8 total=12786MB
+01:38:34 raylet: count=1 total=81MB
+01:38:34 reward_loop: count=8 total=10289MB
+01:38:34 task_runner: count=9 total=12432MB
+01:38:34 vllm_http: count=1 total=2259MB
+01:38:34 vllm_worker: count=10 total=66872MB
+---
+01:38:37 agent_loop: count=8 total=12786MB
+01:38:37 raylet: count=1 total=79MB
+01:38:37 reward_loop: count=8 total=10289MB
+01:38:37 task_runner: count=9 total=12432MB
+01:38:37 vllm_http: count=1 total=2259MB
+01:38:37 vllm_worker: count=10 total=66873MB
+---
+01:38:39 agent_loop: count=8 total=12786MB
+01:38:39 raylet: count=1 total=79MB
+01:38:39 reward_loop: count=8 total=10289MB
+01:38:39 task_runner: count=9 total=12432MB
+01:38:39 vllm_http: count=1 total=2259MB
+01:38:39 vllm_worker: count=10 total=66873MB
+---
+01:38:41 agent_loop: count=8 total=12787MB
+01:38:41 raylet: count=1 total=79MB
+01:38:41 reward_loop: count=8 total=10289MB
+01:38:41 task_runner: count=9 total=12432MB
+01:38:41 vllm_http: count=1 total=2259MB
+01:38:41 vllm_worker: count=10 total=66873MB
+---
+01:38:43 agent_loop: count=8 total=12787MB
+01:38:43 raylet: count=1 total=79MB
+01:38:43 reward_loop: count=8 total=10289MB
+01:38:43 task_runner: count=9 total=12432MB
+01:38:43 vllm_http: count=1 total=2259MB
+01:38:43 vllm_worker: count=10 total=66872MB
+---
+01:38:45 agent_loop: count=8 total=12787MB
+01:38:45 raylet: count=1 total=83MB
+01:38:45 reward_loop: count=8 total=10289MB
+01:38:45 task_runner: count=9 total=12432MB
+01:38:45 vllm_http: count=1 total=2259MB
+01:38:45 vllm_worker: count=10 total=66873MB
+---
+01:38:47 agent_loop: count=8 total=12787MB
+01:38:47 raylet: count=1 total=82MB
+01:38:47 reward_loop: count=8 total=10289MB
+01:38:47 task_runner: count=9 total=12432MB
+01:38:47 vllm_http: count=1 total=2259MB
+01:38:47 vllm_worker: count=10 total=66873MB
+---
+01:38:49 agent_loop: count=8 total=12787MB
+01:38:49 raylet: count=1 total=80MB
+01:38:49 reward_loop: count=8 total=10289MB
+01:38:49 task_runner: count=9 total=12432MB
+01:38:49 vllm_http: count=1 total=2259MB
+01:38:49 vllm_worker: count=10 total=66873MB
+---
+01:38:51 agent_loop: count=8 total=12787MB
+01:38:51 raylet: count=1 total=79MB
+01:38:51 reward_loop: count=8 total=10289MB
+01:38:51 task_runner: count=9 total=12432MB
+01:38:51 vllm_http: count=1 total=2259MB
+01:38:51 vllm_worker: count=10 total=66873MB
+---
+01:38:53 agent_loop: count=8 total=12787MB
+01:38:53 raylet: count=1 total=79MB
+01:38:53 reward_loop: count=8 total=10289MB
+01:38:53 task_runner: count=9 total=12432MB
+01:38:53 vllm_http: count=1 total=2259MB
+01:38:53 vllm_worker: count=10 total=66873MB
+---
+01:38:55 agent_loop: count=8 total=12787MB
+01:38:55 raylet: count=1 total=79MB
+01:38:55 reward_loop: count=8 total=10289MB
+01:38:55 task_runner: count=9 total=12432MB
+01:38:55 vllm_http: count=1 total=2259MB
+01:38:55 vllm_worker: count=10 total=66873MB
+---
+01:38:57 agent_loop: count=8 total=12787MB
+01:38:57 raylet: count=1 total=79MB
+01:38:57 reward_loop: count=8 total=10289MB
+01:38:57 task_runner: count=9 total=12432MB
+01:38:57 vllm_http: count=1 total=2259MB
+01:38:57 vllm_worker: count=10 total=66873MB
+---
+01:38:59 agent_loop: count=8 total=12787MB
+01:38:59 raylet: count=1 total=83MB
+01:38:59 reward_loop: count=8 total=10289MB
+01:38:59 task_runner: count=9 total=12432MB
+01:38:59 vllm_http: count=1 total=2259MB
+01:38:59 vllm_worker: count=10 total=66873MB
+---
+01:39:01 agent_loop: count=8 total=12787MB
+01:39:01 raylet: count=1 total=83MB
+01:39:01 reward_loop: count=8 total=10289MB
+01:39:01 task_runner: count=9 total=12432MB
+01:39:01 vllm_http: count=1 total=2259MB
+01:39:01 vllm_worker: count=10 total=66873MB
+---
+01:39:03 agent_loop: count=8 total=12787MB
+01:39:03 raylet: count=1 total=81MB
+01:39:03 reward_loop: count=8 total=10289MB
+01:39:03 task_runner: count=9 total=12432MB
+01:39:03 vllm_http: count=1 total=2259MB
+01:39:03 vllm_worker: count=10 total=66873MB
+---
+01:39:05 agent_loop: count=8 total=12787MB
+01:39:05 raylet: count=1 total=80MB
+01:39:05 reward_loop: count=8 total=10289MB
+01:39:05 task_runner: count=9 total=12432MB
+01:39:05 vllm_http: count=1 total=2259MB
+01:39:05 vllm_worker: count=10 total=66873MB
+---
+01:39:07 agent_loop: count=8 total=12787MB
+01:39:07 raylet: count=1 total=79MB
+01:39:07 reward_loop: count=8 total=10289MB
+01:39:07 task_runner: count=9 total=12432MB
+01:39:07 vllm_http: count=1 total=2259MB
+01:39:07 vllm_worker: count=10 total=66873MB
+---
+01:39:09 agent_loop: count=8 total=12787MB
+01:39:09 raylet: count=1 total=79MB
+01:39:09 reward_loop: count=8 total=10289MB
+01:39:09 task_runner: count=9 total=12432MB
+01:39:09 vllm_http: count=1 total=2259MB
+01:39:09 vllm_worker: count=10 total=66873MB
+---
+01:39:11 agent_loop: count=8 total=12787MB
+01:39:11 raylet: count=1 total=79MB
+01:39:11 reward_loop: count=8 total=10289MB
+01:39:11 task_runner: count=9 total=12432MB
+01:39:11 vllm_http: count=1 total=2259MB
+01:39:11 vllm_worker: count=10 total=66873MB
+---
+01:39:13 agent_loop: count=8 total=12787MB
+01:39:13 raylet: count=1 total=79MB
+01:39:13 reward_loop: count=8 total=10289MB
+01:39:13 task_runner: count=9 total=12432MB
+01:39:13 vllm_http: count=1 total=2259MB
+01:39:13 vllm_worker: count=10 total=66873MB
+---
+01:39:15 agent_loop: count=8 total=12787MB
+01:39:15 raylet: count=1 total=82MB
+01:39:15 reward_loop: count=8 total=10289MB
+01:39:15 task_runner: count=9 total=12432MB
+01:39:15 vllm_http: count=1 total=2259MB
+01:39:15 vllm_worker: count=10 total=66873MB
+---
+01:39:17 agent_loop: count=8 total=12787MB
+01:39:17 raylet: count=1 total=81MB
+01:39:17 reward_loop: count=8 total=10289MB
+01:39:17 task_runner: count=9 total=12432MB
+01:39:17 vllm_http: count=1 total=2259MB
+01:39:17 vllm_worker: count=10 total=66873MB
+---
+01:39:20 agent_loop: count=8 total=12787MB
+01:39:20 raylet: count=1 total=80MB
+01:39:20 reward_loop: count=8 total=10289MB
+01:39:20 task_runner: count=9 total=12432MB
+01:39:20 vllm_http: count=1 total=2259MB
+01:39:20 vllm_worker: count=10 total=66874MB
+---
+01:39:22 agent_loop: count=8 total=12787MB
+01:39:22 raylet: count=1 total=79MB
+01:39:22 reward_loop: count=8 total=10289MB
+01:39:22 task_runner: count=9 total=12432MB
+01:39:22 vllm_http: count=1 total=2259MB
+01:39:22 vllm_worker: count=10 total=66874MB
+---
+01:39:24 agent_loop: count=8 total=12787MB
+01:39:24 raylet: count=1 total=78MB
+01:39:24 reward_loop: count=8 total=10289MB
+01:39:24 task_runner: count=9 total=12432MB
+01:39:24 vllm_http: count=1 total=2259MB
+01:39:24 vllm_worker: count=10 total=66874MB
+---
+01:39:26 agent_loop: count=8 total=12787MB
+01:39:26 raylet: count=1 total=79MB
+01:39:26 reward_loop: count=8 total=10289MB
+01:39:26 task_runner: count=9 total=12432MB
+01:39:26 vllm_http: count=1 total=2259MB
+01:39:26 vllm_worker: count=10 total=66874MB
+---
+01:39:28 agent_loop: count=8 total=12787MB
+01:39:28 raylet: count=1 total=78MB
+01:39:28 reward_loop: count=8 total=10289MB
+01:39:28 task_runner: count=9 total=12432MB
+01:39:28 vllm_http: count=1 total=2259MB
+01:39:28 vllm_worker: count=10 total=66874MB
+---
+01:39:30 agent_loop: count=8 total=12787MB
+01:39:30 raylet: count=1 total=83MB
+01:39:30 reward_loop: count=8 total=10289MB
+01:39:30 task_runner: count=9 total=12432MB
+01:39:30 vllm_http: count=1 total=2259MB
+01:39:30 vllm_worker: count=10 total=66874MB
+---
+01:39:32 agent_loop: count=8 total=12787MB
+01:39:32 raylet: count=1 total=82MB
+01:39:32 reward_loop: count=8 total=10289MB
+01:39:32 task_runner: count=9 total=12432MB
+01:39:32 vllm_http: count=1 total=2259MB
+01:39:32 vllm_worker: count=10 total=66874MB
+---
+01:39:34 agent_loop: count=8 total=12787MB
+01:39:34 raylet: count=1 total=81MB
+01:39:34 reward_loop: count=8 total=10290MB
+01:39:34 task_runner: count=9 total=12432MB
+01:39:34 vllm_http: count=1 total=2259MB
+01:39:34 vllm_worker: count=10 total=66874MB
+---
+01:39:36 agent_loop: count=8 total=12787MB
+01:39:36 raylet: count=1 total=79MB
+01:39:36 reward_loop: count=8 total=10290MB
+01:39:36 task_runner: count=9 total=12432MB
+01:39:36 vllm_http: count=1 total=2259MB
+01:39:36 vllm_worker: count=10 total=66874MB
+---
+01:39:38 agent_loop: count=8 total=12787MB
+01:39:38 raylet: count=1 total=79MB
+01:39:38 reward_loop: count=8 total=10290MB
+01:39:38 task_runner: count=9 total=12432MB
+01:39:38 vllm_http: count=1 total=2259MB
+01:39:38 vllm_worker: count=10 total=66874MB
+---
+01:39:40 agent_loop: count=8 total=12787MB
+01:39:40 raylet: count=1 total=78MB
+01:39:40 reward_loop: count=8 total=10290MB
+01:39:40 task_runner: count=9 total=12432MB
+01:39:40 vllm_http: count=1 total=2259MB
+01:39:40 vllm_worker: count=10 total=66874MB
+---
+01:39:42 agent_loop: count=8 total=12787MB
+01:39:42 raylet: count=1 total=79MB
+01:39:42 reward_loop: count=8 total=10290MB
+01:39:42 task_runner: count=9 total=12432MB
+01:39:42 vllm_http: count=1 total=2259MB
+01:39:42 vllm_worker: count=10 total=67157MB
+---
+01:39:44 agent_loop: count=8 total=12787MB
+01:39:44 raylet: count=1 total=83MB
+01:39:44 reward_loop: count=8 total=10290MB
+01:39:44 task_runner: count=9 total=12432MB
+01:39:44 vllm_http: count=1 total=2260MB
+01:39:44 vllm_worker: count=10 total=67812MB
+---
+01:39:46 agent_loop: count=8 total=12787MB
+01:39:46 raylet: count=1 total=82MB
+01:39:46 reward_loop: count=8 total=10290MB
+01:39:46 task_runner: count=9 total=12432MB
+01:39:46 vllm_http: count=1 total=2260MB
+01:39:46 vllm_worker: count=10 total=67814MB
+---
+01:39:48 agent_loop: count=8 total=12787MB
+01:39:48 raylet: count=1 total=81MB
+01:39:48 reward_loop: count=8 total=10290MB
+01:39:48 task_runner: count=9 total=12432MB
+01:39:48 vllm_http: count=1 total=2260MB
+01:39:48 vllm_worker: count=10 total=67816MB
+---
+01:39:50 agent_loop: count=8 total=12787MB
+01:39:50 raylet: count=1 total=80MB
+01:39:50 reward_loop: count=8 total=10290MB
+01:39:50 task_runner: count=9 total=12432MB
+01:39:50 vllm_http: count=1 total=2262MB
+01:39:50 vllm_worker: count=10 total=67821MB
+---
+01:39:52 agent_loop: count=8 total=12787MB
+01:39:52 raylet: count=1 total=79MB
+01:39:52 reward_loop: count=8 total=10290MB
+01:39:52 task_runner: count=9 total=12432MB
+01:39:52 vllm_http: count=1 total=2263MB
+01:39:52 vllm_worker: count=10 total=67822MB
+---
+01:39:54 agent_loop: count=8 total=12787MB
+01:39:54 raylet: count=1 total=80MB
+01:39:54 reward_loop: count=8 total=10290MB
+01:39:54 task_runner: count=9 total=12432MB
+01:39:54 vllm_http: count=1 total=2266MB
+01:39:54 vllm_worker: count=10 total=67824MB
+---
+01:39:56 agent_loop: count=8 total=12787MB
+01:39:56 raylet: count=1 total=80MB
+01:39:56 reward_loop: count=8 total=10290MB
+01:39:56 task_runner: count=9 total=12432MB
+01:39:56 vllm_http: count=1 total=2269MB
+01:39:56 vllm_worker: count=10 total=67847MB
+---
+01:39:58 agent_loop: count=8 total=12787MB
+01:39:58 raylet: count=1 total=79MB
+01:39:58 reward_loop: count=8 total=10290MB
+01:39:58 task_runner: count=9 total=12432MB
+01:39:58 vllm_http: count=1 total=2273MB
+01:39:58 vllm_worker: count=10 total=67873MB
+---
+01:40:00 agent_loop: count=8 total=12787MB
+01:40:00 raylet: count=1 total=83MB
+01:40:00 reward_loop: count=8 total=10291MB
+01:40:00 task_runner: count=9 total=12432MB
+01:40:00 vllm_http: count=1 total=2276MB
+01:40:00 vllm_worker: count=10 total=67898MB
+---
+01:40:03 agent_loop: count=8 total=12787MB
+01:40:03 raylet: count=1 total=82MB
+01:40:03 reward_loop: count=8 total=10291MB
+01:40:03 task_runner: count=9 total=12432MB
+01:40:03 vllm_http: count=1 total=2279MB
+01:40:03 vllm_worker: count=10 total=67923MB
+---
+01:40:05 agent_loop: count=8 total=12787MB
+01:40:05 raylet: count=1 total=81MB
+01:40:05 reward_loop: count=8 total=10291MB
+01:40:05 task_runner: count=9 total=12432MB
+01:40:05 vllm_http: count=1 total=2283MB
+01:40:05 vllm_worker: count=10 total=67949MB
+---
+01:40:07 agent_loop: count=8 total=12787MB
+01:40:07 raylet: count=1 total=79MB
+01:40:07 reward_loop: count=8 total=10291MB
+01:40:07 task_runner: count=9 total=12432MB
+01:40:07 vllm_http: count=1 total=2286MB
+01:40:07 vllm_worker: count=10 total=67974MB
+---
+01:40:09 agent_loop: count=8 total=12790MB
+01:40:09 raylet: count=1 total=79MB
+01:40:09 reward_loop: count=8 total=10295MB
+01:40:09 task_runner: count=9 total=12432MB
+01:40:09 vllm_http: count=1 total=2289MB
+01:40:09 vllm_worker: count=10 total=68007MB
+---
+01:40:11 agent_loop: count=8 total=12790MB
+01:40:11 raylet: count=1 total=79MB
+01:40:11 reward_loop: count=8 total=10295MB
+01:40:11 task_runner: count=9 total=12432MB
+01:40:11 vllm_http: count=1 total=2293MB
+01:40:11 vllm_worker: count=10 total=68033MB
+---
+01:40:13 agent_loop: count=8 total=12791MB
+01:40:13 raylet: count=1 total=79MB
+01:40:13 reward_loop: count=8 total=10295MB
+01:40:13 task_runner: count=9 total=12432MB
+01:40:13 vllm_http: count=1 total=2296MB
+01:40:13 vllm_worker: count=10 total=68058MB
+---
+01:40:15 agent_loop: count=8 total=12795MB
+01:40:15 raylet: count=1 total=83MB
+01:40:15 reward_loop: count=8 total=10302MB
+01:40:15 task_runner: count=9 total=12432MB
+01:40:15 vllm_http: count=1 total=2298MB
+01:40:15 vllm_worker: count=10 total=68083MB
+---
+01:40:17 agent_loop: count=8 total=12795MB
+01:40:17 raylet: count=1 total=82MB
+01:40:17 reward_loop: count=8 total=10306MB
+01:40:17 task_runner: count=9 total=12432MB
+01:40:17 vllm_http: count=1 total=2301MB
+01:40:17 vllm_worker: count=10 total=68111MB
+---
+01:40:19 agent_loop: count=8 total=12802MB
+01:40:19 raylet: count=1 total=80MB
+01:40:19 reward_loop: count=8 total=10310MB
+01:40:19 task_runner: count=9 total=12432MB
+01:40:19 vllm_http: count=1 total=2303MB
+01:40:19 vllm_worker: count=10 total=68136MB
+---
+01:40:21 agent_loop: count=8 total=12802MB
+01:40:21 raylet: count=1 total=79MB
+01:40:21 reward_loop: count=8 total=10310MB
+01:40:21 task_runner: count=9 total=12432MB
+01:40:21 vllm_http: count=1 total=2306MB
+01:40:21 vllm_worker: count=10 total=68161MB
+---
+01:40:23 agent_loop: count=8 total=12802MB
+01:40:23 raylet: count=1 total=78MB
+01:40:23 reward_loop: count=8 total=10310MB
+01:40:23 task_runner: count=9 total=12432MB
+01:40:23 vllm_http: count=1 total=2309MB
+01:40:23 vllm_worker: count=10 total=68185MB
+---
+01:40:25 agent_loop: count=8 total=12802MB
+01:40:25 raylet: count=1 total=78MB
+01:40:25 reward_loop: count=8 total=10310MB
+01:40:25 task_runner: count=9 total=12432MB
+01:40:25 vllm_http: count=1 total=2312MB
+01:40:25 vllm_worker: count=10 total=68209MB
+---
+01:40:27 agent_loop: count=8 total=12806MB
+01:40:27 raylet: count=1 total=78MB
+01:40:27 reward_loop: count=8 total=10311MB
+01:40:27 task_runner: count=9 total=12432MB
+01:40:27 vllm_http: count=1 total=2316MB
+01:40:27 vllm_worker: count=10 total=68235MB
+---
+01:40:29 agent_loop: count=8 total=12806MB
+01:40:29 raylet: count=1 total=83MB
+01:40:29 reward_loop: count=8 total=10311MB
+01:40:29 task_runner: count=9 total=12432MB
+01:40:29 vllm_http: count=1 total=2318MB
+01:40:29 vllm_worker: count=10 total=68259MB
+---
+01:40:31 agent_loop: count=8 total=12806MB
+01:40:31 raylet: count=1 total=83MB
+01:40:31 reward_loop: count=8 total=10320MB
+01:40:31 task_runner: count=9 total=12432MB
+01:40:31 vllm_http: count=1 total=2320MB
+01:40:31 vllm_worker: count=10 total=68285MB
+---
+01:40:33 agent_loop: count=8 total=12807MB
+01:40:33 raylet: count=1 total=82MB
+01:40:33 reward_loop: count=8 total=10321MB
+01:40:33 task_runner: count=9 total=12432MB
+01:40:33 vllm_http: count=1 total=2323MB
+01:40:33 vllm_worker: count=10 total=68311MB
+---
+01:40:35 agent_loop: count=8 total=12808MB
+01:40:35 raylet: count=1 total=80MB
+01:40:35 reward_loop: count=8 total=10322MB
+01:40:35 task_runner: count=9 total=12432MB
+01:40:35 vllm_http: count=1 total=2324MB
+01:40:35 vllm_worker: count=10 total=68323MB
+---
+01:40:37 agent_loop: count=8 total=12808MB
+01:40:37 raylet: count=1 total=79MB
+01:40:37 reward_loop: count=8 total=10322MB
+01:40:37 task_runner: count=9 total=12432MB
+01:40:37 vllm_http: count=1 total=2327MB
+01:40:37 vllm_worker: count=10 total=68348MB
+---
+01:40:39 agent_loop: count=8 total=12808MB
+01:40:39 raylet: count=1 total=79MB
+01:40:39 reward_loop: count=8 total=10323MB
+01:40:39 task_runner: count=9 total=12432MB
+01:40:39 vllm_http: count=1 total=2328MB
+01:40:39 vllm_worker: count=10 total=68361MB
+---
+01:40:41 agent_loop: count=8 total=12809MB
+01:40:41 raylet: count=1 total=79MB
+01:40:41 reward_loop: count=8 total=10323MB
+01:40:41 task_runner: count=9 total=12432MB
+01:40:41 vllm_http: count=1 total=2331MB
+01:40:41 vllm_worker: count=10 total=68379MB
+---
+01:40:43 agent_loop: count=8 total=12809MB
+01:40:43 raylet: count=1 total=79MB
+01:40:43 reward_loop: count=8 total=10323MB
+01:40:43 task_runner: count=9 total=12432MB
+01:40:43 vllm_http: count=1 total=2333MB
+01:40:43 vllm_worker: count=10 total=68403MB
+---
+01:40:45 agent_loop: count=8 total=12809MB
+01:40:45 raylet: count=1 total=83MB
+01:40:45 reward_loop: count=8 total=10323MB
+01:40:45 task_runner: count=9 total=12432MB
+01:40:45 vllm_http: count=1 total=2336MB
+01:40:45 vllm_worker: count=10 total=68427MB
+---
+01:40:48 agent_loop: count=8 total=12809MB
+01:40:48 raylet: count=1 total=82MB
+01:40:48 reward_loop: count=8 total=10325MB
+01:40:48 task_runner: count=9 total=12432MB
+01:40:48 vllm_http: count=1 total=2338MB
+01:40:48 vllm_worker: count=10 total=68445MB
+---
+01:40:50 agent_loop: count=8 total=12809MB
+01:40:50 raylet: count=1 total=81MB
+01:40:50 reward_loop: count=8 total=10325MB
+01:40:50 task_runner: count=9 total=12432MB
+01:40:50 vllm_http: count=1 total=2340MB
+01:40:50 vllm_worker: count=10 total=68470MB
+---
+01:40:52 agent_loop: count=8 total=12810MB
+01:40:52 raylet: count=1 total=79MB
+01:40:52 reward_loop: count=8 total=10332MB
+01:40:52 task_runner: count=9 total=12432MB
+01:40:52 vllm_http: count=1 total=2341MB
+01:40:52 vllm_worker: count=10 total=68496MB
+---
+01:40:54 agent_loop: count=8 total=12810MB
+01:40:54 raylet: count=1 total=79MB
+01:40:54 reward_loop: count=8 total=10332MB
+01:40:54 task_runner: count=9 total=12432MB
+01:40:54 vllm_http: count=1 total=2344MB
+01:40:54 vllm_worker: count=10 total=68522MB
+---
+01:40:56 agent_loop: count=8 total=12814MB
+01:40:56 raylet: count=1 total=79MB
+01:40:56 reward_loop: count=8 total=10334MB
+01:40:56 task_runner: count=9 total=12432MB
+01:40:56 vllm_http: count=1 total=2344MB
+01:40:56 vllm_worker: count=10 total=68549MB
+---
+01:40:58 agent_loop: count=8 total=12814MB
+01:40:58 raylet: count=1 total=80MB
+01:40:58 reward_loop: count=8 total=10334MB
+01:40:58 task_runner: count=9 total=12432MB
+01:40:58 vllm_http: count=1 total=2346MB
+01:40:58 vllm_worker: count=10 total=68573MB
+---
+01:41:00 agent_loop: count=8 total=12814MB
+01:41:00 raylet: count=1 total=84MB
+01:41:00 reward_loop: count=8 total=10336MB
+01:41:00 task_runner: count=9 total=12432MB
+01:41:00 vllm_http: count=1 total=2348MB
+01:41:00 vllm_worker: count=10 total=68598MB
+---
+01:41:02 agent_loop: count=8 total=12821MB
+01:41:02 raylet: count=1 total=84MB
+01:41:02 reward_loop: count=8 total=10337MB
+01:41:02 task_runner: count=9 total=12432MB
+01:41:02 vllm_http: count=1 total=2349MB
+01:41:02 vllm_worker: count=10 total=68624MB
+---
+01:41:04 agent_loop: count=8 total=12824MB
+01:41:04 raylet: count=1 total=83MB
+01:41:04 reward_loop: count=8 total=10339MB
+01:41:04 task_runner: count=9 total=12432MB
+01:41:04 vllm_http: count=1 total=2350MB
+01:41:04 vllm_worker: count=10 total=68652MB
+---
+01:41:06 agent_loop: count=8 total=12825MB
+01:41:06 raylet: count=1 total=80MB
+01:41:06 reward_loop: count=8 total=10340MB
+01:41:06 task_runner: count=9 total=12432MB
+01:41:06 vllm_http: count=1 total=2351MB
+01:41:06 vllm_worker: count=10 total=68679MB
+---
+01:41:08 agent_loop: count=8 total=12825MB
+01:41:08 raylet: count=1 total=80MB
+01:41:08 reward_loop: count=8 total=10340MB
+01:41:08 task_runner: count=9 total=12432MB
+01:41:08 vllm_http: count=1 total=2352MB
+01:41:08 vllm_worker: count=10 total=68704MB
+---
+01:41:10 agent_loop: count=8 total=12826MB
+01:41:10 raylet: count=1 total=80MB
+01:41:10 reward_loop: count=8 total=10340MB
+01:41:10 task_runner: count=9 total=12432MB
+01:41:10 vllm_http: count=1 total=2353MB
+01:41:10 vllm_worker: count=10 total=68730MB
+---
+01:41:12 agent_loop: count=8 total=12826MB
+01:41:12 raylet: count=1 total=80MB
+01:41:12 reward_loop: count=8 total=10340MB
+01:41:12 task_runner: count=9 total=12432MB
+01:41:12 vllm_http: count=1 total=2356MB
+01:41:12 vllm_worker: count=10 total=68756MB
+---
+01:41:14 agent_loop: count=8 total=12826MB
+01:41:14 raylet: count=1 total=80MB
+01:41:14 reward_loop: count=8 total=10341MB
+01:41:14 task_runner: count=9 total=12432MB
+01:41:14 vllm_http: count=1 total=2358MB
+01:41:14 vllm_worker: count=10 total=68784MB
+---
+01:41:16 agent_loop: count=8 total=13887MB
+01:41:16 raylet: count=1 total=83MB
+01:41:16 reward_loop: count=8 total=10396MB
+01:41:16 task_runner: count=9 total=12910MB
+01:41:16 vllm_http: count=1 total=2351MB
+01:41:16 vllm_worker: count=10 total=68793MB
+---
+01:41:18 agent_loop: count=8 total=13951MB
+01:41:18 raylet: count=1 total=83MB
+01:41:18 reward_loop: count=8 total=10397MB
+01:41:18 task_runner: count=9 total=13536MB
+01:41:18 vllm_http: count=1 total=2351MB
+01:41:18 vllm_worker: count=10 total=68793MB
+---
+01:41:20 agent_loop: count=8 total=13952MB
+01:41:20 raylet: count=1 total=82MB
+01:41:20 reward_loop: count=8 total=10397MB
+01:41:20 task_runner: count=9 total=13536MB
+01:41:20 vllm_http: count=1 total=2351MB
+01:41:20 vllm_worker: count=10 total=68793MB
+---
+01:41:22 agent_loop: count=8 total=13952MB
+01:41:22 raylet: count=1 total=81MB
+01:41:22 reward_loop: count=8 total=10397MB
+01:41:22 task_runner: count=9 total=14568MB
+01:41:22 vllm_http: count=1 total=2351MB
+01:41:22 vllm_worker: count=10 total=68793MB
+---
+01:41:24 agent_loop: count=8 total=13952MB
+01:41:24 raylet: count=1 total=81MB
+01:41:24 reward_loop: count=8 total=10397MB
+01:41:24 task_runner: count=9 total=13910MB
+01:41:24 vllm_http: count=1 total=2351MB
+01:41:24 vllm_worker: count=10 total=68793MB
+---
+01:41:26 agent_loop: count=8 total=13952MB
+01:41:26 raylet: count=1 total=81MB
+01:41:26 reward_loop: count=8 total=10397MB
+01:41:26 task_runner: count=9 total=13910MB
+01:41:26 vllm_http: count=1 total=2351MB
+01:41:26 vllm_worker: count=10 total=68793MB
+---
+01:41:28 agent_loop: count=8 total=13952MB
+01:41:28 raylet: count=1 total=81MB
+01:41:28 reward_loop: count=8 total=10397MB
+01:41:28 task_runner: count=9 total=13910MB
+01:41:28 vllm_http: count=1 total=2351MB
+01:41:28 vllm_worker: count=10 total=68793MB
+---
+01:41:30 agent_loop: count=8 total=13952MB
+01:41:30 raylet: count=1 total=85MB
+01:41:30 reward_loop: count=8 total=10397MB
+01:41:30 task_runner: count=9 total=13910MB
+01:41:30 vllm_http: count=1 total=2351MB
+01:41:30 vllm_worker: count=10 total=68793MB
+---
+01:41:33 agent_loop: count=8 total=13952MB
+01:41:33 raylet: count=1 total=85MB
+01:41:33 reward_loop: count=8 total=10397MB
+01:41:33 task_runner: count=9 total=13910MB
+01:41:33 vllm_http: count=1 total=2351MB
+01:41:33 vllm_worker: count=10 total=68793MB
+---
+01:41:35 agent_loop: count=8 total=13952MB
+01:41:35 raylet: count=1 total=83MB
+01:41:35 reward_loop: count=8 total=10397MB
+01:41:35 task_runner: count=9 total=13910MB
+01:41:35 vllm_http: count=1 total=2351MB
+01:41:35 vllm_worker: count=10 total=68793MB
+---
+01:41:37 agent_loop: count=8 total=13952MB
+01:41:37 raylet: count=1 total=82MB
+01:41:37 reward_loop: count=8 total=10397MB
+01:41:37 task_runner: count=9 total=13910MB
+01:41:37 vllm_http: count=1 total=2351MB
+01:41:37 vllm_worker: count=10 total=68793MB
+---
+01:41:39 agent_loop: count=8 total=13952MB
+01:41:39 raylet: count=1 total=81MB
+01:41:39 reward_loop: count=8 total=10397MB
+01:41:39 task_runner: count=9 total=13910MB
+01:41:39 vllm_http: count=1 total=2351MB
+01:41:39 vllm_worker: count=10 total=68793MB
+---
+01:41:41 agent_loop: count=8 total=13952MB
+01:41:41 raylet: count=1 total=81MB
+01:41:41 reward_loop: count=8 total=10397MB
+01:41:41 task_runner: count=9 total=13910MB
+01:41:41 vllm_http: count=1 total=2351MB
+01:41:41 vllm_worker: count=10 total=68793MB
+---
+01:41:43 agent_loop: count=8 total=13952MB
+01:41:43 raylet: count=1 total=82MB
+01:41:43 reward_loop: count=8 total=10397MB
+01:41:43 task_runner: count=9 total=13910MB
+01:41:43 vllm_http: count=1 total=2351MB
+01:41:43 vllm_worker: count=10 total=68793MB
+---
+01:41:45 agent_loop: count=8 total=13952MB
+01:41:45 raylet: count=1 total=86MB
+01:41:45 reward_loop: count=8 total=10397MB
+01:41:45 task_runner: count=9 total=13910MB
+01:41:45 vllm_http: count=1 total=2351MB
+01:41:45 vllm_worker: count=10 total=68793MB
+---
+01:41:47 agent_loop: count=8 total=13952MB
+01:41:47 raylet: count=1 total=85MB
+01:41:47 reward_loop: count=8 total=10397MB
+01:41:47 task_runner: count=9 total=13910MB
+01:41:47 vllm_http: count=1 total=2351MB
+01:41:47 vllm_worker: count=10 total=68793MB
+---
+01:41:49 agent_loop: count=8 total=13952MB
+01:41:49 raylet: count=1 total=84MB
+01:41:49 reward_loop: count=8 total=10397MB
+01:41:49 task_runner: count=9 total=13910MB
+01:41:49 vllm_http: count=1 total=2351MB
+01:41:49 vllm_worker: count=10 total=68793MB
+---
+01:41:51 agent_loop: count=8 total=13952MB
+01:41:51 raylet: count=1 total=83MB
+01:41:51 reward_loop: count=8 total=10397MB
+01:41:51 task_runner: count=9 total=13910MB
+01:41:51 vllm_http: count=1 total=2351MB
+01:41:51 vllm_worker: count=10 total=68793MB
+---
+01:41:53 agent_loop: count=8 total=13952MB
+01:41:53 raylet: count=1 total=82MB
+01:41:53 reward_loop: count=8 total=10397MB
+01:41:53 task_runner: count=9 total=13910MB
+01:41:53 vllm_http: count=1 total=2351MB
+01:41:53 vllm_worker: count=10 total=68793MB
+---
+01:41:56 agent_loop: count=8 total=13952MB
+01:41:56 raylet: count=1 total=82MB
+01:41:56 reward_loop: count=8 total=10397MB
+01:41:56 task_runner: count=9 total=13910MB
+01:41:56 vllm_http: count=1 total=2351MB
+01:41:56 vllm_worker: count=10 total=68793MB
+---
+01:41:58 agent_loop: count=8 total=13952MB
+01:41:58 raylet: count=1 total=82MB
+01:41:58 reward_loop: count=8 total=10397MB
+01:41:58 task_runner: count=9 total=13910MB
+01:41:58 vllm_http: count=1 total=2351MB
+01:41:58 vllm_worker: count=10 total=68793MB
+---
+01:42:00 agent_loop: count=8 total=13952MB
+01:42:00 raylet: count=1 total=86MB
+01:42:00 reward_loop: count=8 total=10397MB
+01:42:00 task_runner: count=9 total=13910MB
+01:42:00 vllm_http: count=1 total=2351MB
+01:42:00 vllm_worker: count=10 total=68793MB
+---
+01:42:02 agent_loop: count=8 total=13952MB
+01:42:02 raylet: count=1 total=85MB
+01:42:02 reward_loop: count=8 total=10397MB
+01:42:02 task_runner: count=9 total=13910MB
+01:42:02 vllm_http: count=1 total=2351MB
+01:42:02 vllm_worker: count=10 total=68793MB
+---
+01:42:04 agent_loop: count=8 total=13952MB
+01:42:04 raylet: count=1 total=84MB
+01:42:04 reward_loop: count=8 total=10397MB
+01:42:04 task_runner: count=9 total=13910MB
+01:42:04 vllm_http: count=1 total=2351MB
+01:42:04 vllm_worker: count=10 total=68793MB
+---
+01:42:06 agent_loop: count=8 total=13952MB
+01:42:06 raylet: count=1 total=83MB
+01:42:06 reward_loop: count=8 total=10397MB
+01:42:06 task_runner: count=9 total=13910MB
+01:42:06 vllm_http: count=1 total=2351MB
+01:42:06 vllm_worker: count=10 total=68793MB
+---
+01:42:08 agent_loop: count=8 total=13952MB
+01:42:08 raylet: count=1 total=81MB
+01:42:08 reward_loop: count=8 total=10397MB
+01:42:08 task_runner: count=9 total=13910MB
+01:42:08 vllm_http: count=1 total=2351MB
+01:42:08 vllm_worker: count=10 total=68793MB
+---
+01:42:10 agent_loop: count=8 total=13952MB
+01:42:10 raylet: count=1 total=81MB
+01:42:10 reward_loop: count=8 total=10397MB
+01:42:10 task_runner: count=9 total=13910MB
+01:42:10 vllm_http: count=1 total=2351MB
+01:42:10 vllm_worker: count=10 total=68793MB
+---
+01:42:12 agent_loop: count=8 total=13952MB
+01:42:12 raylet: count=1 total=81MB
+01:42:12 reward_loop: count=8 total=10397MB
+01:42:12 task_runner: count=9 total=13910MB
+01:42:12 vllm_http: count=1 total=2351MB
+01:42:12 vllm_worker: count=10 total=68793MB
+---
+01:42:14 agent_loop: count=8 total=13952MB
+01:42:14 raylet: count=1 total=81MB
+01:42:14 reward_loop: count=8 total=10397MB
+01:42:14 task_runner: count=9 total=13910MB
+01:42:14 vllm_http: count=1 total=2351MB
+01:42:14 vllm_worker: count=10 total=68793MB
+---
+01:42:16 agent_loop: count=8 total=13952MB
+01:42:16 raylet: count=1 total=85MB
+01:42:16 reward_loop: count=8 total=10397MB
+01:42:16 task_runner: count=9 total=13910MB
+01:42:16 vllm_http: count=1 total=2351MB
+01:42:16 vllm_worker: count=10 total=68793MB
+---
+01:42:18 agent_loop: count=8 total=13952MB
+01:42:18 raylet: count=1 total=86MB
+01:42:18 reward_loop: count=8 total=10397MB
+01:42:18 task_runner: count=9 total=13910MB
+01:42:18 vllm_http: count=1 total=2351MB
+01:42:18 vllm_worker: count=10 total=68793MB
+---
+01:42:20 agent_loop: count=8 total=13952MB
+01:42:20 raylet: count=1 total=84MB
+01:42:20 reward_loop: count=8 total=10397MB
+01:42:20 task_runner: count=9 total=13910MB
+01:42:20 vllm_http: count=1 total=2351MB
+01:42:20 vllm_worker: count=10 total=68793MB
+---
+01:42:22 agent_loop: count=8 total=13952MB
+01:42:22 raylet: count=1 total=83MB
+01:42:22 reward_loop: count=8 total=10397MB
+01:42:22 task_runner: count=9 total=13910MB
+01:42:22 vllm_http: count=1 total=2351MB
+01:42:22 vllm_worker: count=10 total=68793MB
+---
+01:42:24 agent_loop: count=8 total=13952MB
+01:42:24 raylet: count=1 total=82MB
+01:42:24 reward_loop: count=8 total=10397MB
+01:42:24 task_runner: count=9 total=13910MB
+01:42:24 vllm_http: count=1 total=2351MB
+01:42:24 vllm_worker: count=10 total=68793MB
+---
+01:42:26 agent_loop: count=8 total=13952MB
+01:42:26 raylet: count=1 total=82MB
+01:42:26 reward_loop: count=8 total=10397MB
+01:42:26 task_runner: count=9 total=13910MB
+01:42:26 vllm_http: count=1 total=2351MB
+01:42:26 vllm_worker: count=10 total=68793MB
+---
+01:42:28 agent_loop: count=8 total=13952MB
+01:42:28 raylet: count=1 total=82MB
+01:42:28 reward_loop: count=8 total=10397MB
+01:42:28 task_runner: count=9 total=13910MB
+01:42:28 vllm_http: count=1 total=2351MB
+01:42:28 vllm_worker: count=10 total=68793MB
+---
+01:42:31 agent_loop: count=8 total=13952MB
+01:42:31 raylet: count=1 total=86MB
+01:42:31 reward_loop: count=8 total=10397MB
+01:42:31 task_runner: count=9 total=13910MB
+01:42:31 vllm_http: count=1 total=2351MB
+01:42:31 vllm_worker: count=10 total=68793MB
+---
+01:42:33 agent_loop: count=8 total=13952MB
+01:42:33 raylet: count=1 total=86MB
+01:42:33 reward_loop: count=8 total=10397MB
+01:42:33 task_runner: count=9 total=13910MB
+01:42:33 vllm_http: count=1 total=2351MB
+01:42:33 vllm_worker: count=10 total=68793MB
+---
+01:42:35 agent_loop: count=8 total=13952MB
+01:42:35 raylet: count=1 total=85MB
+01:42:35 reward_loop: count=8 total=10397MB
+01:42:35 task_runner: count=9 total=13910MB
+01:42:35 vllm_http: count=1 total=2351MB
+01:42:35 vllm_worker: count=10 total=68793MB
+---
+01:42:37 agent_loop: count=8 total=13952MB
+01:42:37 raylet: count=1 total=83MB
+01:42:37 reward_loop: count=8 total=10397MB
+01:42:37 task_runner: count=9 total=13910MB
+01:42:37 vllm_http: count=1 total=2351MB
+01:42:37 vllm_worker: count=10 total=68793MB
+---
+01:42:39 agent_loop: count=8 total=13952MB
+01:42:39 raylet: count=1 total=82MB
+01:42:39 reward_loop: count=8 total=10397MB
+01:42:39 task_runner: count=9 total=13871MB
+01:42:39 vllm_http: count=1 total=2351MB
+01:42:39 vllm_worker: count=10 total=68793MB
+---
+01:42:41 agent_loop: count=8 total=13952MB
+01:42:41 raylet: count=1 total=82MB
+01:42:41 reward_loop: count=8 total=10397MB
+01:42:41 task_runner: count=9 total=13903MB
+01:42:41 vllm_http: count=1 total=2351MB
+01:42:41 vllm_worker: count=10 total=68793MB
+---
+01:42:43 agent_loop: count=8 total=13952MB
+01:42:43 raylet: count=1 total=82MB
+01:42:43 reward_loop: count=8 total=10397MB
+01:42:43 task_runner: count=9 total=13903MB
+01:42:43 vllm_http: count=1 total=2351MB
+01:42:43 vllm_worker: count=10 total=68793MB
+---
+01:42:45 agent_loop: count=8 total=13952MB
+01:42:45 raylet: count=1 total=86MB
+01:42:45 reward_loop: count=8 total=10397MB
+01:42:45 task_runner: count=9 total=13903MB
+01:42:45 vllm_http: count=1 total=2351MB
+01:42:45 vllm_worker: count=10 total=68793MB
+---
+01:42:47 agent_loop: count=8 total=13952MB
+01:42:47 raylet: count=1 total=85MB
+01:42:47 reward_loop: count=8 total=10397MB
+01:42:47 task_runner: count=9 total=13903MB
+01:42:47 vllm_http: count=1 total=2351MB
+01:42:47 vllm_worker: count=10 total=68793MB
+---
+01:42:49 agent_loop: count=8 total=13952MB
+01:42:49 raylet: count=1 total=84MB
+01:42:49 reward_loop: count=8 total=10397MB
+01:42:49 task_runner: count=9 total=13903MB
+01:42:49 vllm_http: count=1 total=2351MB
+01:42:49 vllm_worker: count=10 total=68793MB
+---
+01:42:51 agent_loop: count=8 total=13952MB
+01:42:51 raylet: count=1 total=82MB
+01:42:51 reward_loop: count=8 total=10397MB
+01:42:51 task_runner: count=9 total=13903MB
+01:42:51 vllm_http: count=1 total=2351MB
+01:42:51 vllm_worker: count=10 total=68793MB
+---
+01:42:53 agent_loop: count=8 total=13952MB
+01:42:53 raylet: count=1 total=81MB
+01:42:53 reward_loop: count=8 total=10397MB
+01:42:53 task_runner: count=9 total=13903MB
+01:42:53 vllm_http: count=1 total=2351MB
+01:42:53 vllm_worker: count=10 total=68793MB
+---
+01:42:55 agent_loop: count=8 total=13952MB
+01:42:55 raylet: count=1 total=81MB
+01:42:55 reward_loop: count=8 total=10397MB
+01:42:55 task_runner: count=9 total=13903MB
+01:42:55 vllm_http: count=1 total=2351MB
+01:42:55 vllm_worker: count=10 total=68793MB
+---
+01:42:57 agent_loop: count=8 total=13952MB
+01:42:57 raylet: count=1 total=81MB
+01:42:57 reward_loop: count=8 total=10397MB
+01:42:57 task_runner: count=9 total=13903MB
+01:42:57 vllm_http: count=1 total=2351MB
+01:42:57 vllm_worker: count=10 total=68793MB
+---
+01:42:59 agent_loop: count=8 total=13952MB
+01:42:59 raylet: count=1 total=81MB
+01:42:59 reward_loop: count=8 total=10397MB
+01:42:59 task_runner: count=9 total=13903MB
+01:42:59 vllm_http: count=1 total=2351MB
+01:42:59 vllm_worker: count=10 total=68793MB
+---
+01:43:01 agent_loop: count=8 total=13952MB
+01:43:01 raylet: count=1 total=85MB
+01:43:01 reward_loop: count=8 total=10397MB
+01:43:01 task_runner: count=9 total=13903MB
+01:43:01 vllm_http: count=1 total=2351MB
+01:43:01 vllm_worker: count=10 total=68793MB
+---
+01:43:03 agent_loop: count=8 total=13952MB
+01:43:03 raylet: count=1 total=84MB
+01:43:03 reward_loop: count=8 total=10397MB
+01:43:03 task_runner: count=9 total=13903MB
+01:43:03 vllm_http: count=1 total=2351MB
+01:43:03 vllm_worker: count=10 total=68793MB
+---
+01:43:06 agent_loop: count=8 total=13952MB
+01:43:06 raylet: count=1 total=83MB
+01:43:06 reward_loop: count=8 total=10397MB
+01:43:06 task_runner: count=9 total=13903MB
+01:43:06 vllm_http: count=1 total=2351MB
+01:43:06 vllm_worker: count=10 total=68793MB
+---
+01:43:08 agent_loop: count=8 total=13952MB
+01:43:08 raylet: count=1 total=82MB
+01:43:08 reward_loop: count=8 total=10397MB
+01:43:08 task_runner: count=9 total=13903MB
+01:43:08 vllm_http: count=1 total=2351MB
+01:43:08 vllm_worker: count=10 total=68793MB
+---
+01:43:10 agent_loop: count=8 total=13952MB
+01:43:10 raylet: count=1 total=81MB
+01:43:10 reward_loop: count=8 total=10397MB
+01:43:10 task_runner: count=9 total=13903MB
+01:43:10 vllm_http: count=1 total=2351MB
+01:43:10 vllm_worker: count=10 total=68793MB
+---
+01:43:12 agent_loop: count=8 total=13952MB
+01:43:12 raylet: count=1 total=81MB
+01:43:12 reward_loop: count=8 total=10397MB
+01:43:12 task_runner: count=9 total=13903MB
+01:43:12 vllm_http: count=1 total=2351MB
+01:43:12 vllm_worker: count=10 total=68793MB
+---
+01:43:14 agent_loop: count=8 total=13952MB
+01:43:14 raylet: count=1 total=81MB
+01:43:14 reward_loop: count=8 total=10398MB
+01:43:14 task_runner: count=9 total=13903MB
+01:43:14 vllm_http: count=1 total=2351MB
+01:43:14 vllm_worker: count=10 total=68793MB
+---
+01:43:16 agent_loop: count=8 total=13952MB
+01:43:16 raylet: count=1 total=85MB
+01:43:16 reward_loop: count=8 total=10398MB
+01:43:16 task_runner: count=9 total=13903MB
+01:43:16 vllm_http: count=1 total=2351MB
+01:43:16 vllm_worker: count=10 total=68793MB
+---
+01:43:18 agent_loop: count=8 total=13952MB
+01:43:18 raylet: count=1 total=84MB
+01:43:18 reward_loop: count=8 total=10398MB
+01:43:18 task_runner: count=9 total=13903MB
+01:43:18 vllm_http: count=1 total=2351MB
+01:43:18 vllm_worker: count=10 total=68793MB
+---
+01:43:20 agent_loop: count=8 total=13952MB
+01:43:20 raylet: count=1 total=83MB
+01:43:20 reward_loop: count=8 total=10398MB
+01:43:20 task_runner: count=9 total=13903MB
+01:43:20 vllm_http: count=1 total=2351MB
+01:43:20 vllm_worker: count=10 total=68793MB
+---
+01:43:22 agent_loop: count=8 total=13952MB
+01:43:22 raylet: count=1 total=81MB
+01:43:22 reward_loop: count=8 total=10398MB
+01:43:22 task_runner: count=9 total=13903MB
+01:43:22 vllm_http: count=1 total=2351MB
+01:43:22 vllm_worker: count=10 total=68793MB
+---
+01:43:24 agent_loop: count=8 total=13952MB
+01:43:24 raylet: count=1 total=81MB
+01:43:24 reward_loop: count=8 total=10398MB
+01:43:24 task_runner: count=9 total=13903MB
+01:43:24 vllm_http: count=1 total=2351MB
+01:43:24 vllm_worker: count=10 total=68793MB
+---
+01:43:26 agent_loop: count=8 total=13952MB
+01:43:26 raylet: count=1 total=81MB
+01:43:26 reward_loop: count=8 total=10398MB
+01:43:26 task_runner: count=9 total=13903MB
+01:43:26 vllm_http: count=1 total=2351MB
+01:43:26 vllm_worker: count=10 total=68793MB
+---
+01:43:28 agent_loop: count=8 total=13952MB
+01:43:28 raylet: count=1 total=81MB
+01:43:28 reward_loop: count=8 total=10398MB
+01:43:28 task_runner: count=9 total=13903MB
+01:43:28 vllm_http: count=1 total=2351MB
+01:43:28 vllm_worker: count=10 total=68793MB
+---
+01:43:30 agent_loop: count=8 total=13952MB
+01:43:30 raylet: count=1 total=85MB
+01:43:30 reward_loop: count=8 total=10398MB
+01:43:30 task_runner: count=9 total=13903MB
+01:43:30 vllm_http: count=1 total=2351MB
+01:43:30 vllm_worker: count=10 total=68793MB
+---
+01:43:32 agent_loop: count=8 total=13952MB
+01:43:32 raylet: count=1 total=85MB
+01:43:32 reward_loop: count=8 total=10398MB
+01:43:32 task_runner: count=9 total=13903MB
+01:43:32 vllm_http: count=1 total=2351MB
+01:43:32 vllm_worker: count=10 total=68793MB
+---
+01:43:34 agent_loop: count=8 total=13952MB
+01:43:34 raylet: count=1 total=83MB
+01:43:34 reward_loop: count=8 total=10398MB
+01:43:34 task_runner: count=9 total=13903MB
+01:43:34 vllm_http: count=1 total=2351MB
+01:43:34 vllm_worker: count=10 total=68793MB
+---
+01:43:36 agent_loop: count=8 total=13952MB
+01:43:36 raylet: count=1 total=82MB
+01:43:36 reward_loop: count=8 total=10398MB
+01:43:36 task_runner: count=9 total=13903MB
+01:43:36 vllm_http: count=1 total=2351MB
+01:43:36 vllm_worker: count=10 total=68793MB
+---
+01:43:39 agent_loop: count=8 total=13952MB
+01:43:39 raylet: count=1 total=81MB
+01:43:39 reward_loop: count=8 total=10398MB
+01:43:39 task_runner: count=9 total=13903MB
+01:43:39 vllm_http: count=1 total=2351MB
+01:43:39 vllm_worker: count=10 total=68793MB
+---
+01:43:41 agent_loop: count=8 total=13952MB
+01:43:41 raylet: count=1 total=80MB
+01:43:41 reward_loop: count=8 total=10398MB
+01:43:41 task_runner: count=9 total=13903MB
+01:43:41 vllm_http: count=1 total=2351MB
+01:43:41 vllm_worker: count=10 total=68793MB
+---
+01:43:43 agent_loop: count=8 total=13952MB
+01:43:43 raylet: count=1 total=80MB
+01:43:43 reward_loop: count=8 total=10398MB
+01:43:43 task_runner: count=9 total=13903MB
+01:43:43 vllm_http: count=1 total=2351MB
+01:43:43 vllm_worker: count=10 total=68793MB
+---
+01:43:45 agent_loop: count=8 total=13952MB
+01:43:45 raylet: count=1 total=80MB
+01:43:45 reward_loop: count=8 total=10398MB
+01:43:45 task_runner: count=9 total=13903MB
+01:43:45 vllm_http: count=1 total=2351MB
+01:43:45 vllm_worker: count=10 total=68793MB
+---
+01:43:47 agent_loop: count=8 total=13952MB
+01:43:47 raylet: count=1 total=85MB
+01:43:47 reward_loop: count=8 total=10398MB
+01:43:47 task_runner: count=9 total=13903MB
+01:43:47 vllm_http: count=1 total=2351MB
+01:43:47 vllm_worker: count=10 total=68793MB
+---
+01:43:49 agent_loop: count=8 total=13952MB
+01:43:49 raylet: count=1 total=84MB
+01:43:49 reward_loop: count=8 total=10398MB
+01:43:49 task_runner: count=9 total=13903MB
+01:43:49 vllm_http: count=1 total=2351MB
+01:43:49 vllm_worker: count=10 total=68793MB
+---
+01:43:51 agent_loop: count=8 total=13952MB
+01:43:51 raylet: count=1 total=82MB
+01:43:51 reward_loop: count=8 total=10398MB
+01:43:51 task_runner: count=9 total=13903MB
+01:43:51 vllm_http: count=1 total=2351MB
+01:43:51 vllm_worker: count=10 total=68793MB
+---
+01:43:53 agent_loop: count=8 total=13952MB
+01:43:53 raylet: count=1 total=81MB
+01:43:53 reward_loop: count=8 total=10398MB
+01:43:53 task_runner: count=9 total=13903MB
+01:43:53 vllm_http: count=1 total=2351MB
+01:43:53 vllm_worker: count=10 total=68793MB
+---
+01:43:55 agent_loop: count=8 total=13952MB
+01:43:55 raylet: count=1 total=81MB
+01:43:55 reward_loop: count=8 total=10398MB
+01:43:55 task_runner: count=9 total=13903MB
+01:43:55 vllm_http: count=1 total=2351MB
+01:43:55 vllm_worker: count=10 total=68793MB
+---
+01:43:57 agent_loop: count=8 total=13952MB
+01:43:57 raylet: count=1 total=81MB
+01:43:57 reward_loop: count=8 total=10398MB
+01:43:57 task_runner: count=9 total=13903MB
+01:43:57 vllm_http: count=1 total=2351MB
+01:43:57 vllm_worker: count=10 total=68793MB
+---
+01:43:59 agent_loop: count=8 total=13952MB
+01:43:59 raylet: count=1 total=81MB
+01:43:59 reward_loop: count=8 total=10398MB
+01:43:59 task_runner: count=9 total=13903MB
+01:43:59 vllm_http: count=1 total=2351MB
+01:43:59 vllm_worker: count=10 total=68793MB
+---
+01:44:01 agent_loop: count=8 total=13952MB
+01:44:01 raylet: count=1 total=85MB
+01:44:01 reward_loop: count=8 total=10398MB
+01:44:01 task_runner: count=9 total=13903MB
+01:44:01 vllm_http: count=1 total=2351MB
+01:44:01 vllm_worker: count=10 total=68793MB
+---
+01:44:03 agent_loop: count=8 total=13952MB
+01:44:03 raylet: count=1 total=84MB
+01:44:03 reward_loop: count=8 total=10398MB
+01:44:03 task_runner: count=9 total=13903MB
+01:44:03 vllm_http: count=1 total=2351MB
+01:44:03 vllm_worker: count=10 total=68793MB
+---
+01:44:05 agent_loop: count=8 total=13952MB
+01:44:05 raylet: count=1 total=83MB
+01:44:05 reward_loop: count=8 total=10398MB
+01:44:05 task_runner: count=9 total=13903MB
+01:44:05 vllm_http: count=1 total=2351MB
+01:44:05 vllm_worker: count=10 total=68793MB
+---
+01:44:07 agent_loop: count=8 total=13952MB
+01:44:07 raylet: count=1 total=81MB
+01:44:07 reward_loop: count=8 total=10398MB
+01:44:07 task_runner: count=9 total=13903MB
+01:44:07 vllm_http: count=1 total=2351MB
+01:44:07 vllm_worker: count=10 total=68793MB
+---
+01:44:09 agent_loop: count=8 total=13952MB
+01:44:09 raylet: count=1 total=81MB
+01:44:09 reward_loop: count=8 total=10398MB
+01:44:09 task_runner: count=9 total=13903MB
+01:44:09 vllm_http: count=1 total=2351MB
+01:44:09 vllm_worker: count=10 total=68793MB
+---
+01:44:11 agent_loop: count=8 total=13952MB
+01:44:11 raylet: count=1 total=80MB
+01:44:11 reward_loop: count=8 total=10398MB
+01:44:11 task_runner: count=9 total=13903MB
+01:44:11 vllm_http: count=1 total=2351MB
+01:44:11 vllm_worker: count=10 total=68793MB
+---
+01:44:14 agent_loop: count=8 total=13952MB
+01:44:14 raylet: count=1 total=81MB
+01:44:14 reward_loop: count=8 total=10398MB
+01:44:14 task_runner: count=9 total=13903MB
+01:44:14 vllm_http: count=1 total=2351MB
+01:44:14 vllm_worker: count=10 total=68793MB
+---
+01:44:16 agent_loop: count=8 total=13952MB
+01:44:16 raylet: count=1 total=85MB
+01:44:16 reward_loop: count=8 total=10398MB
+01:44:16 task_runner: count=9 total=13903MB
+01:44:16 vllm_http: count=1 total=2351MB
+01:44:16 vllm_worker: count=10 total=68793MB
+---
+01:44:18 agent_loop: count=8 total=13952MB
+01:44:18 raylet: count=1 total=84MB
+01:44:18 reward_loop: count=8 total=10398MB
+01:44:18 task_runner: count=9 total=13903MB
+01:44:18 vllm_http: count=1 total=2351MB
+01:44:18 vllm_worker: count=10 total=68793MB
+---
+01:44:20 agent_loop: count=8 total=13952MB
+01:44:20 raylet: count=1 total=83MB
+01:44:20 reward_loop: count=8 total=10398MB
+01:44:20 task_runner: count=9 total=13903MB
+01:44:20 vllm_http: count=1 total=2351MB
+01:44:20 vllm_worker: count=10 total=68793MB
+---
+01:44:22 agent_loop: count=8 total=13952MB
+01:44:22 raylet: count=1 total=82MB
+01:44:22 reward_loop: count=8 total=10398MB
+01:44:22 task_runner: count=9 total=13903MB
+01:44:22 vllm_http: count=1 total=2351MB
+01:44:22 vllm_worker: count=10 total=68793MB
+---
+01:44:24 agent_loop: count=8 total=13952MB
+01:44:24 raylet: count=1 total=81MB
+01:44:24 reward_loop: count=8 total=10398MB
+01:44:24 task_runner: count=9 total=13903MB
+01:44:24 vllm_http: count=1 total=2351MB
+01:44:24 vllm_worker: count=10 total=68793MB
+---
+01:44:26 agent_loop: count=8 total=13952MB
+01:44:26 raylet: count=1 total=81MB
+01:44:26 reward_loop: count=8 total=10398MB
+01:44:26 task_runner: count=9 total=13903MB
+01:44:26 vllm_http: count=1 total=2351MB
+01:44:26 vllm_worker: count=10 total=68793MB
+---
+01:44:28 agent_loop: count=8 total=13952MB
+01:44:28 raylet: count=1 total=81MB
+01:44:28 reward_loop: count=8 total=10398MB
+01:44:28 task_runner: count=9 total=13903MB
+01:44:28 vllm_http: count=1 total=2351MB
+01:44:28 vllm_worker: count=10 total=68793MB
+---
+01:44:30 agent_loop: count=8 total=13952MB
+01:44:30 raylet: count=1 total=80MB
+01:44:30 reward_loop: count=8 total=10398MB
+01:44:30 task_runner: count=9 total=13903MB
+01:44:30 vllm_http: count=1 total=2351MB
+01:44:30 vllm_worker: count=10 total=68793MB
+---
+01:44:32 agent_loop: count=8 total=13952MB
+01:44:32 raylet: count=1 total=85MB
+01:44:32 reward_loop: count=8 total=10398MB
+01:44:32 task_runner: count=9 total=13903MB
+01:44:32 vllm_http: count=1 total=2351MB
+01:44:32 vllm_worker: count=10 total=68793MB
+---
+01:44:34 agent_loop: count=8 total=13952MB
+01:44:34 raylet: count=1 total=83MB
+01:44:34 reward_loop: count=8 total=10398MB
+01:44:34 task_runner: count=9 total=13903MB
+01:44:34 vllm_http: count=1 total=2351MB
+01:44:34 vllm_worker: count=10 total=68793MB
+---
+01:44:36 agent_loop: count=8 total=13952MB
+01:44:36 raylet: count=1 total=82MB
+01:44:36 reward_loop: count=8 total=10398MB
+01:44:36 task_runner: count=9 total=13903MB
+01:44:36 vllm_http: count=1 total=2351MB
+01:44:36 vllm_worker: count=10 total=68793MB
+---
+01:44:38 agent_loop: count=8 total=13952MB
+01:44:38 raylet: count=1 total=81MB
+01:44:38 reward_loop: count=8 total=10398MB
+01:44:38 task_runner: count=9 total=13903MB
+01:44:38 vllm_http: count=1 total=2351MB
+01:44:38 vllm_worker: count=10 total=68793MB
+---
+01:44:40 agent_loop: count=8 total=13952MB
+01:44:40 raylet: count=1 total=80MB
+01:44:40 reward_loop: count=8 total=10398MB
+01:44:40 task_runner: count=9 total=13903MB
+01:44:40 vllm_http: count=1 total=2351MB
+01:44:40 vllm_worker: count=10 total=68793MB
+---
+01:44:42 agent_loop: count=8 total=13952MB
+01:44:42 raylet: count=1 total=80MB
+01:44:42 reward_loop: count=8 total=10398MB
+01:44:42 task_runner: count=9 total=13903MB
+01:44:42 vllm_http: count=1 total=2351MB
+01:44:42 vllm_worker: count=10 total=68793MB
+---
+01:44:44 agent_loop: count=8 total=13952MB
+01:44:44 raylet: count=1 total=80MB
+01:44:44 reward_loop: count=8 total=10398MB
+01:44:44 task_runner: count=9 total=13903MB
+01:44:44 vllm_http: count=1 total=2351MB
+01:44:44 vllm_worker: count=10 total=68793MB
+---
+01:44:47 agent_loop: count=8 total=13952MB
+01:44:47 raylet: count=1 total=86MB
+01:44:47 reward_loop: count=8 total=10398MB
+01:44:47 task_runner: count=9 total=13903MB
+01:44:47 vllm_http: count=1 total=2351MB
+01:44:47 vllm_worker: count=10 total=68793MB
+---
+01:44:49 agent_loop: count=8 total=13952MB
+01:44:49 raylet: count=1 total=85MB
+01:44:49 reward_loop: count=8 total=10398MB
+01:44:49 task_runner: count=9 total=13903MB
+01:44:49 vllm_http: count=1 total=2351MB
+01:44:49 vllm_worker: count=10 total=68793MB
+---
+01:44:51 agent_loop: count=8 total=13952MB
+01:44:51 raylet: count=1 total=84MB
+01:44:51 reward_loop: count=8 total=10398MB
+01:44:51 task_runner: count=9 total=13903MB
+01:44:51 vllm_http: count=1 total=2351MB
+01:44:51 vllm_worker: count=10 total=68793MB
+---
+01:44:53 agent_loop: count=8 total=13952MB
+01:44:53 raylet: count=1 total=82MB
+01:44:53 reward_loop: count=8 total=10398MB
+01:44:53 task_runner: count=9 total=13903MB
+01:44:53 vllm_http: count=1 total=2351MB
+01:44:53 vllm_worker: count=10 total=68793MB
+---
+01:44:55 agent_loop: count=8 total=13952MB
+01:44:55 raylet: count=1 total=82MB
+01:44:55 reward_loop: count=8 total=10398MB
+01:44:55 task_runner: count=9 total=13903MB
+01:44:55 vllm_http: count=1 total=2351MB
+01:44:55 vllm_worker: count=10 total=68793MB
+---
+01:44:57 agent_loop: count=8 total=13952MB
+01:44:57 raylet: count=1 total=81MB
+01:44:57 reward_loop: count=8 total=10398MB
+01:44:57 task_runner: count=9 total=13903MB
+01:44:57 vllm_http: count=1 total=2351MB
+01:44:57 vllm_worker: count=10 total=68793MB
+---
+01:44:59 agent_loop: count=8 total=13952MB
+01:44:59 raylet: count=1 total=81MB
+01:44:59 reward_loop: count=8 total=10398MB
+01:44:59 task_runner: count=9 total=13903MB
+01:44:59 vllm_http: count=1 total=2351MB
+01:44:59 vllm_worker: count=10 total=68793MB
+---
+01:45:01 agent_loop: count=8 total=13952MB
+01:45:01 raylet: count=1 total=85MB
+01:45:01 reward_loop: count=8 total=10398MB
+01:45:01 task_runner: count=9 total=13903MB
+01:45:01 vllm_http: count=1 total=2351MB
+01:45:01 vllm_worker: count=10 total=68793MB
+---
+01:45:03 agent_loop: count=8 total=13952MB
+01:45:03 raylet: count=1 total=85MB
+01:45:03 reward_loop: count=8 total=10398MB
+01:45:03 task_runner: count=9 total=13903MB
+01:45:03 vllm_http: count=1 total=2351MB
+01:45:03 vllm_worker: count=10 total=68793MB
+---
+01:45:05 agent_loop: count=8 total=13952MB
+01:45:05 raylet: count=1 total=83MB
+01:45:05 reward_loop: count=8 total=10398MB
+01:45:05 task_runner: count=9 total=13903MB
+01:45:05 vllm_http: count=1 total=2351MB
+01:45:05 vllm_worker: count=10 total=68793MB
+---
+01:45:07 agent_loop: count=8 total=13952MB
+01:45:07 raylet: count=1 total=82MB
+01:45:07 reward_loop: count=8 total=10398MB
+01:45:07 task_runner: count=9 total=13903MB
+01:45:07 vllm_http: count=1 total=2351MB
+01:45:07 vllm_worker: count=10 total=68793MB
+---
+01:45:09 agent_loop: count=8 total=13952MB
+01:45:09 raylet: count=1 total=82MB
+01:45:09 reward_loop: count=8 total=10398MB
+01:45:09 task_runner: count=9 total=13903MB
+01:45:09 vllm_http: count=1 total=2351MB
+01:45:09 vllm_worker: count=10 total=68793MB
+---
+01:45:11 agent_loop: count=8 total=13952MB
+01:45:11 raylet: count=1 total=81MB
+01:45:11 reward_loop: count=8 total=10398MB
+01:45:11 task_runner: count=9 total=13903MB
+01:45:11 vllm_http: count=1 total=2351MB
+01:45:11 vllm_worker: count=10 total=68793MB
+---
+01:45:13 agent_loop: count=8 total=13952MB
+01:45:13 raylet: count=1 total=81MB
+01:45:13 reward_loop: count=8 total=10398MB
+01:45:13 task_runner: count=9 total=13903MB
+01:45:13 vllm_http: count=1 total=2351MB
+01:45:13 vllm_worker: count=10 total=68793MB
+---
+01:45:15 agent_loop: count=8 total=13952MB
+01:45:15 raylet: count=1 total=81MB
+01:45:15 reward_loop: count=8 total=10398MB
+01:45:15 task_runner: count=9 total=13903MB
+01:45:15 vllm_http: count=1 total=2351MB
+01:45:15 vllm_worker: count=10 total=68793MB
+---
+01:45:17 agent_loop: count=8 total=13952MB
+01:45:17 raylet: count=1 total=85MB
+01:45:17 reward_loop: count=8 total=10398MB
+01:45:17 task_runner: count=9 total=13903MB
+01:45:17 vllm_http: count=1 total=2351MB
+01:45:17 vllm_worker: count=10 total=68793MB
+---
+01:45:19 agent_loop: count=8 total=13952MB
+01:45:19 raylet: count=1 total=84MB
+01:45:19 reward_loop: count=8 total=10398MB
+01:45:19 task_runner: count=9 total=13903MB
+01:45:19 vllm_http: count=1 total=2351MB
+01:45:19 vllm_worker: count=10 total=68793MB
+---
+01:45:22 agent_loop: count=8 total=13952MB
+01:45:22 raylet: count=1 total=83MB
+01:45:22 reward_loop: count=8 total=10398MB
+01:45:22 task_runner: count=9 total=12435MB
+01:45:22 vllm_http: count=1 total=2351MB
+01:45:22 vllm_worker: count=10 total=68793MB
+---
+01:45:24 agent_loop: count=8 total=13952MB
+01:45:24 raylet: count=1 total=81MB
+01:45:24 reward_loop: count=8 total=10398MB
+01:45:24 task_runner: count=9 total=10712MB
+01:45:24 vllm_http: count=1 total=2351MB
+01:45:24 vllm_worker: count=10 total=68793MB
+---
+01:45:26 agent_loop: count=8 total=13952MB
+01:45:26 raylet: count=1 total=81MB
+01:45:26 reward_loop: count=8 total=10398MB
+01:45:26 task_runner: count=9 total=10710MB
+01:45:26 vllm_http: count=1 total=2351MB
+01:45:26 vllm_worker: count=10 total=68793MB
+---
+01:45:28 agent_loop: count=8 total=13952MB
+01:45:28 raylet: count=1 total=81MB
+01:45:28 reward_loop: count=8 total=10398MB
+01:45:28 task_runner: count=9 total=10710MB
+01:45:28 vllm_http: count=1 total=2351MB
+01:45:28 vllm_worker: count=10 total=68793MB
+---
+01:45:30 agent_loop: count=8 total=13952MB
+01:45:30 raylet: count=1 total=81MB
+01:45:30 reward_loop: count=8 total=10399MB
+01:45:30 task_runner: count=9 total=10710MB
+01:45:30 vllm_http: count=1 total=2351MB
+01:45:30 vllm_worker: count=10 total=68793MB
+---
+01:45:32 agent_loop: count=8 total=13952MB
+01:45:32 raylet: count=1 total=85MB
+01:45:32 reward_loop: count=8 total=10399MB
+01:45:32 task_runner: count=9 total=10710MB
+01:45:32 vllm_http: count=1 total=2351MB
+01:45:32 vllm_worker: count=10 total=68793MB
+---
+01:45:34 agent_loop: count=8 total=13952MB
+01:45:34 raylet: count=1 total=84MB
+01:45:34 reward_loop: count=8 total=10399MB
+01:45:34 task_runner: count=9 total=10709MB
+01:45:34 vllm_http: count=1 total=2351MB
+01:45:34 vllm_worker: count=10 total=68793MB
+---
+01:45:36 agent_loop: count=8 total=13952MB
+01:45:36 raylet: count=1 total=83MB
+01:45:36 reward_loop: count=8 total=10399MB
+01:45:36 task_runner: count=9 total=10709MB
+01:45:36 vllm_http: count=1 total=2351MB
+01:45:36 vllm_worker: count=10 total=68793MB
+---
+01:45:38 agent_loop: count=8 total=13853MB
+01:45:38 raylet: count=1 total=84MB
+01:45:38 reward_loop: count=8 total=10318MB
+01:45:38 task_runner: count=9 total=10685MB
+01:45:38 vllm_http: count=1 total=2339MB
+01:45:38 vllm_worker: count=10 total=68695MB
+---
+01:45:40 agent_loop: count=8 total=13745MB
+01:45:40 raylet: count=1 total=88MB
+01:45:40 reward_loop: count=8 total=10213MB
+01:45:40 task_runner: count=9 total=10629MB
+01:45:40 vllm_http: count=1 total=2325MB
+01:45:40 vllm_worker: count=10 total=68516MB
+---
+01:45:42 agent_loop: count=7 total=11650MB
+01:45:42 raylet: count=1 total=92MB
+01:45:42 reward_loop: count=8 total=9778MB
+01:45:42 task_runner: count=9 total=10565MB
+01:45:42 vllm_http: count=1 total=2271MB
+01:45:42 vllm_worker: count=10 total=68061MB
+---
+01:45:44 agent_loop: count=7 total=11121MB
+01:45:44 raylet: count=1 total=91MB
+01:45:44 reward_loop: count=8 total=9265MB
+01:45:44 task_runner: count=9 total=10427MB
+01:45:44 vllm_http: count=1 total=2194MB
+01:45:44 vllm_worker: count=10 total=67409MB
+---
+01:45:46 agent_loop: count=7 total=10497MB
+01:45:46 raylet: count=1 total=88MB
+01:45:46 reward_loop: count=8 total=8676MB
+01:45:46 task_runner: count=9 total=10219MB
+01:45:46 vllm_http: count=1 total=2105MB
+01:45:46 vllm_worker: count=10 total=66250MB
+---
+01:45:48 agent_loop: count=6 total=8843MB
+01:45:48 raylet: count=1 total=94MB
+01:45:48 reward_loop: count=8 total=8464MB
+01:45:48 task_runner: count=9 total=10129MB
+01:45:48 vllm_http: count=1 total=2071MB
+01:45:48 vllm_worker: count=10 total=65119MB
+---
+01:45:51 agent_loop: count=6 total=7983MB
+01:45:51 raylet: count=1 total=85MB
+01:45:51 reward_loop: count=8 total=7381MB
+01:45:51 task_runner: count=9 total=9958MB
+01:45:51 vllm_http: count=1 total=1929MB
+01:45:51 vllm_worker: count=10 total=62931MB
+---
+01:45:53 agent_loop: count=6 total=7788MB
+01:45:53 raylet: count=1 total=82MB
+01:45:53 reward_loop: count=8 total=7124MB
+01:45:53 task_runner: count=9 total=9899MB
+01:45:53 vllm_http: count=1 total=1917MB
+01:45:53 vllm_worker: count=10 total=3MB
+---
+01:45:59 agent_loop: count=5 total=6511MB
+01:45:59 raylet: count=1 total=91MB
+01:45:59 reward_loop: count=8 total=7138MB
+01:45:59 task_runner: count=9 total=9904MB
+01:45:59 vllm_http: count=1 total=1921MB
+01:45:59 vllm_worker: count=2 total=3MB
+---
+01:46:03 agent_loop: count=5 total=6511MB
+01:46:03 raylet: count=1 total=90MB
+01:46:03 reward_loop: count=8 total=7138MB
+01:46:03 task_runner: count=9 total=9904MB
+01:46:03 vllm_http: count=1 total=1922MB
+01:46:03 vllm_worker: count=2 total=3MB
+---
+01:46:06 raylet: count=1 total=89MB
+01:46:06 task_runner: count=1 total=2738MB
+01:46:06 vllm_worker: count=2 total=3MB
+---
+01:46:10 vllm_worker: count=2 total=3MB
+---
+01:46:13 vllm_worker: count=2 total=3MB
+---
+01:46:15 vllm_worker: count=2 total=3MB
+---
+01:46:17 vllm_worker: count=2 total=3MB
+---
+01:46:19 vllm_worker: count=2 total=3MB
+---
+01:46:21 vllm_worker: count=2 total=3MB
+---
+01:46:23 vllm_worker: count=2 total=3MB
+---
+01:46:25 vllm_worker: count=2 total=3MB
+---
+01:46:27 vllm_worker: count=2 total=3MB
+---
+01:46:29 vllm_worker: count=2 total=3MB
+---
+01:46:31 vllm_worker: count=2 total=3MB
+---
+01:46:33 vllm_worker: count=2 total=3MB
+---
