@@ -1024,6 +1024,7 @@ class AgentLoopManager:
         llm_client: LLMServerClient,
         teacher_client: dict[str, LLMServerClient] = None,
         reward_loop_worker_handles: list[ray.actor.ActorHandle] = None,
+        _server_manager=None,  # rllm-compat shim: caller wires LLMServerManager here
     ):
         self.config = config
         self.rollout_config = config.actor_rollout_ref.rollout
@@ -1031,9 +1032,49 @@ class AgentLoopManager:
         self.llm_client = llm_client
         self.teacher_client = teacher_client
         self.reward_loop_worker_handles = reward_loop_worker_handles
+        # rllm-compat shim: holds the LLMServerManager that owns server replicas,
+        # so the legacy property accessors below (server_addresses / server_handles /
+        # global_load_balancer) can forward to it. None when not wired (verl-native
+        # trainers don't need it).
+        self._server_manager = _server_manager
 
         if not hasattr(self, "agent_loop_workers_class"):
             self.agent_loop_workers_class = ray.remote(AgentLoopWorker)
+
+    # === BEGIN rllm-compat shim properties ===
+    # rllm <= 2026-05 expects rollout_manager (an AgentLoopManager) to expose
+    # server_addresses / server_handles / global_load_balancer directly. In the
+    # current verl fork these live on LLMServerManager instead. These properties
+    # forward to a wired-in LLMServerManager. Caller (e.g. RayPPOTrainer.init_workers)
+    # must pass `_server_manager=<LLMServerManager instance>` when constructing
+    # this manager, otherwise these accessors raise AttributeError.
+    @property
+    def server_addresses(self):
+        if self._server_manager is None:
+            raise AttributeError(
+                "AgentLoopManager.server_addresses requires `_server_manager=` "
+                "to have been passed at construction time (rllm-compat shim)."
+            )
+        return self._server_manager.server_addresses
+
+    @property
+    def server_handles(self):
+        if self._server_manager is None:
+            raise AttributeError(
+                "AgentLoopManager.server_handles requires `_server_manager=` "
+                "to have been passed at construction time (rllm-compat shim)."
+            )
+        return self._server_manager.server_handles
+
+    @property
+    def global_load_balancer(self):
+        if self._server_manager is None:
+            raise AttributeError(
+                "AgentLoopManager.global_load_balancer requires `_server_manager=` "
+                "to have been passed at construction time (rllm-compat shim)."
+            )
+        return self._server_manager.global_load_balancer
+    # === END rllm-compat shim properties ===
 
     @classmethod
     @auto_await
@@ -1124,3 +1165,46 @@ class AgentLoopManager:
             timing["agent_loop/slowest/response_length"] = attention_mask[prompt_length:].sum().item()
 
         return timing
+
+
+# ============================================================================
+# rllm-compat shim — back-compat for the AsyncLLMServerManager name
+# ----------------------------------------------------------------------------
+# rllm <= 2026-05 imports AsyncLLMServerManager from this module, with the
+# legacy constructor signature (config, servers=..., load_balancer_handle=...).
+# In the current verl fork the functional equivalent is LLMServerClient
+# (verl/workers/rollout/llm_server.py); its .generate(request_id, *,
+# prompt_ids, sampling_params, image_data, ...) signature is byte-compatible
+# with what rllm's VerlEngine calls.
+#
+# This shim:
+#   - Accepts the legacy `servers=` and `load_balancer_handle=` kwargs
+#   - Forwards `load_balancer_handle` to LLMServerClient.__init__
+#   - Silently retains `servers` for any caller that introspects it; the
+#     new client routes through `load_balancer_handle` directly so the
+#     explicit server list is no longer needed at call sites
+#
+# Remove once rllm upgrades to the LLMServerClient-based API.
+# ============================================================================
+from verl.workers.rollout.llm_server import LLMServerClient as _LLMServerClient
+
+
+class AsyncLLMServerManager(_LLMServerClient):
+    """Back-compat alias of LLMServerClient for rllm <= 2026-05.
+
+    Old signature::
+
+        AsyncLLMServerManager(config, servers=<iterable of (addr, handle)>,
+                              load_balancer_handle=<actor handle>)
+
+    New signature (this shim translates to)::
+
+        LLMServerClient(config, load_balancer_handle=<actor handle>)
+    """
+
+    def __init__(self, config, servers=None, load_balancer_handle=None, **kwargs):
+        super().__init__(config, load_balancer_handle=load_balancer_handle, **kwargs)
+        if servers is not None:
+            # Materialize and stash for introspection; not used by .generate()
+            # in the new architecture.
+            self._legacy_servers = list(servers)

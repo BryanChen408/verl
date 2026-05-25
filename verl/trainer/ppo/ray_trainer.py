@@ -904,6 +904,11 @@ class RayPPOTrainer:
             llm_client=self.llm_server_manager.get_client(),
             teacher_client=self.teacher_model_manager.get_client() if self.use_teacher_policy else None,
             reward_loop_worker_handles=reward_loop_worker_handles,
+            # rllm-compat shim: wire the LLMServerManager so rllm subclasses can
+            # read async_rollout_manager.{server_addresses, server_handles,
+            # global_load_balancer} via the shim properties. Has no effect on
+            # verl-native code paths (they never read these properties).
+            _server_manager=self.llm_server_manager,
         )
 
         checkpoint_engine_config = omega_conf_to_dataclass(self.config.actor_rollout_ref.rollout.checkpoint_engine)
