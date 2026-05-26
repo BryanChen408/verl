@@ -755,6 +755,16 @@ def pop(tensordict: TensorDict, key: str, default=None) -> Any:
         >>> "labels" in td.keys()
         False
     """
+    # rllm-compat: callers (e.g., engine_workers.infer_batch) sometimes pass a
+    # DataProto here instead of a bare TensorDict. DataProto.pop has a completely
+    # different signature -- (batch_keys, non_tensor_batch_keys, meta_info_keys)
+    # taking LISTS -- so calling DataProto.pop(str, sentinel) iterates the string
+    # char-by-char and asserts each char in self.batch.keys() → AssertionError.
+    # tu.get() guards this via `if key not in tensordict: return default` above;
+    # mirror that here so pop() short-circuits to the default before reaching the
+    # broken DataProto.pop signature. Same contract for actual TensorDict input.
+    if key not in tensordict:
+        return default
     _sentinel = object()
     output = tensordict.pop(key, _sentinel)
     if output is _sentinel:
