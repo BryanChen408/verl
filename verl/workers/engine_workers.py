@@ -232,12 +232,6 @@ class TrainingWorker(Worker, DistProfilerExtension):
 
     @register(dispatch_mode=make_nd_compute_dataproto_dispatch_fn(mesh_name="train"), blocking=False)
     def train_mini_batch(self, data: TensorDict) -> TensorDict:
-        # rllm-compat (W2.26): dispatcher passes DataProto despite the
-        # `data: TensorDict` annotation. tu.* helpers, `data.shape`, and
-        # `data.keys()` below all assume TensorDict. Convert once at entry.
-        # Idempotent for real TensorDict input.
-        if not isinstance(data, TensorDict):
-            data = data.to_tensordict()
         """Split a batch into N mini-batches run for multiple epochs
 
         Args:
@@ -329,9 +323,6 @@ class TrainingWorker(Worker, DistProfilerExtension):
     @register(dispatch_mode=make_nd_compute_dataproto_dispatch_fn(mesh_name="train"), blocking=False)
     @DistProfiler.annotate(color="red", role="train_batch")
     def train_batch(self, data: TensorDict) -> TensorDict:
-        # rllm-compat (W2.26): see comment in train_mini_batch.
-        if not isinstance(data, TensorDict):
-            data = data.to_tensordict()
         assert self.loss_fn is not None, "loss function can't be None when calling train_batch"
         assert not self.engine_config.forward_only, "Can't run `train_batch` when forward_only is in the engine config."
         # global_token_num should be a list of number of tokens of each seq in this batch
@@ -387,9 +378,6 @@ class TrainingWorker(Worker, DistProfilerExtension):
 
     @register(dispatch_mode=make_nd_compute_dataproto_dispatch_fn(mesh_name="train"), blocking=False)
     def infer_batch(self, data: TensorDict) -> TensorDict:
-        # rllm-compat (W2.26): see comment in train_mini_batch.
-        if not isinstance(data, TensorDict):
-            data = data.to_tensordict()
         # add mfu calculator
         global_token_num = tu.get(data, key="global_token_num")
         compute_loss = tu.get(data, key="compute_loss", default=True)
